@@ -1,0 +1,537 @@
+{
+  "generated_from": "generator/generate.py",
+  "constants_version": "2026.11-v1",
+  "bank": "Northlake Bank (fictional)",
+  "currency": "CAD",
+  "story1_industrials_q3": {
+    "quarter": "2026-Q3",
+    "industry": "Industrials",
+    "revenue_actual": 38036512.05,
+    "revenue_plan": 46836512.03,
+    "variance": -8799999.98,
+    "variance_by_product": [
+      {
+        "product_id": "P02",
+        "product_name": "M&A Advisory",
+        "actual": 0.0,
+        "plan": 7500000.0,
+        "variance": -7500000.0,
+        "share_of_total_variance": 0.8523
+      },
+      {
+        "product_id": "P01",
+        "product_name": "Lending",
+        "actual": 27238900.02,
+        "plan": 28518259.89,
+        "variance": -1279359.87,
+        "share_of_total_variance": 0.1454
+      },
+      {
+        "product_id": "P05",
+        "product_name": "Rates & FX Hedging",
+        "actual": 5074724.1,
+        "plan": 5086973.41,
+        "variance": -12249.31,
+        "share_of_total_variance": 0.0014
+      },
+      {
+        "product_id": "P06",
+        "product_name": "Transaction Banking",
+        "actual": 5722887.93,
+        "plan": 5731278.73,
+        "variance": -8390.8,
+        "share_of_total_variance": 0.001
+      }
+    ],
+    "ma_share_of_variance": 0.8523,
+    "top_clients": [
+      {
+        "client_id": "C-1001",
+        "client_name": "Meadowlark Fabrication (fictional)",
+        "variance": -4584821.35
+      },
+      {
+        "client_id": "C-1002",
+        "client_name": "Thornbury Components (fictional)",
+        "variance": -3009637.73
+      },
+      {
+        "client_id": "C-1027",
+        "client_name": "Arbor Fabrication (fictional)",
+        "variance": -114460.14
+      },
+      {
+        "client_id": "C-1043",
+        "client_name": "Highfield Industries (fictional)",
+        "variance": -109089.52
+      },
+      {
+        "client_id": "C-1003",
+        "client_name": "Hollins Fabrication (fictional)",
+        "variance": -108687.38
+      }
+    ],
+    "slipped_deals": [
+      {
+        "deal_id": "D-20458",
+        "client_id": "C-1001",
+        "client_name": "Meadowlark Fabrication (fictional)",
+        "product": "M&A Advisory",
+        "expected_fee": 4500000.0,
+        "expected_close_date": "2026-08-20",
+        "stage": "Execution"
+      },
+      {
+        "deal_id": "D-20466",
+        "client_id": "C-1002",
+        "client_name": "Thornbury Components (fictional)",
+        "product": "M&A Advisory",
+        "expected_fee": 3000000.0,
+        "expected_close_date": "2026-08-27",
+        "stage": "Execution"
+      }
+    ],
+    "all_open_slipped_deals_count": 3
+  },
+  "story2_whitespace": {
+    "as_of_month": "2026-09",
+    "window": "trailing 12 months",
+    "hurdle_rate": 0.15,
+    "segment": "Mid-Market",
+    "count": 18,
+    "average_raroc": 0.0737,
+    "clients": [
+      {
+        "client_id": "C-1092",
+        "client_name": "Northwind Midstream (fictional)",
+        "raroc": 0.0606,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 857916.92
+      },
+      {
+        "client_id": "C-1057",
+        "client_name": "Nettlefield Medical (fictional)",
+        "raroc": 0.0625,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 829569.42
+      },
+      {
+        "client_id": "C-1055",
+        "client_name": "Cedarcrest Networks (fictional)",
+        "raroc": 0.0636,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 1046592.1
+      },
+      {
+        "client_id": "C-1065",
+        "client_name": "Rosehill Power (fictional)",
+        "raroc": 0.0637,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 767471.18
+      },
+      {
+        "client_id": "C-1054",
+        "client_name": "Driftwood Life Sciences (fictional)",
+        "raroc": 0.0648,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 1204952.18
+      },
+      {
+        "client_id": "C-1135",
+        "client_name": "Meadowlark Power (fictional)",
+        "raroc": 0.067,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 915003.77
+      },
+      {
+        "client_id": "C-1120",
+        "client_name": "Cedarcrest Medical (fictional)",
+        "raroc": 0.0674,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 1080354.25
+      },
+      {
+        "client_id": "C-1063",
+        "client_name": "Oakridge Foods (fictional)",
+        "raroc": 0.0696,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 770127.36
+      },
+      {
+        "client_id": "C-1082",
+        "client_name": "Underhill Resources (fictional)",
+        "raroc": 0.0701,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 983384.39
+      },
+      {
+        "client_id": "C-1068",
+        "client_name": "Eastgate Fabrication (fictional)",
+        "raroc": 0.0761,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 1319614.94
+      },
+      {
+        "client_id": "C-1105",
+        "client_name": "Vantage Point Midstream (fictional)",
+        "raroc": 0.0767,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 1313385.41
+      },
+      {
+        "client_id": "C-1095",
+        "client_name": "Crestwood Manufacturing (fictional)",
+        "raroc": 0.0767,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 1076980.72
+      },
+      {
+        "client_id": "C-1106",
+        "client_name": "Kestrel Health (fictional)",
+        "raroc": 0.0775,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 927986.05
+      },
+      {
+        "client_id": "C-1101",
+        "client_name": "Brightwater Systems (fictional)",
+        "raroc": 0.0806,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 860335.11
+      },
+      {
+        "client_id": "C-1116",
+        "client_name": "Maplewood Renewables (fictional)",
+        "raroc": 0.083,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 960981.55
+      },
+      {
+        "client_id": "C-1137",
+        "client_name": "Hollins Energy (fictional)",
+        "raroc": 0.0877,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 651285.73
+      },
+      {
+        "client_id": "C-1111",
+        "client_name": "Alder Data (fictional)",
+        "raroc": 0.0886,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 948980.69
+      },
+      {
+        "client_id": "C-1121",
+        "client_name": "Riverbend Engineering (fictional)",
+        "raroc": 0.0899,
+        "products_held": [
+          "Lending"
+        ],
+        "missing_products": [
+          "M&A Advisory",
+          "Debt Capital Markets",
+          "Equity Capital Markets",
+          "Rates & FX Hedging",
+          "Transaction Banking"
+        ],
+        "revenue_ttm": 1310199.44
+      }
+    ],
+    "clients_below_hurdle_all_segments": 18,
+    "raroc_by_segment": {
+      "Financial Institutions": 0.2404,
+      "Large Corporate": 0.2031,
+      "Mid-Market": 0.1675,
+      "Sponsor": 0.2309
+    },
+    "portfolio_raroc": 0.2066
+  },
+  "story3_capacity": {
+    "team": "Coverage East 2",
+    "teams": [
+      {
+        "team": "Coverage East 1",
+        "bankers": 5,
+        "clients": 25,
+        "clients_per_banker": 5.0,
+        "capacity_target": 8,
+        "over_capacity": false,
+        "revenue_ttm": 73727838.69,
+        "revenue_per_banker_ttm": 14745567.74,
+        "win_rate_by_quarter": {
+          "2025-Q4": 0.5714,
+          "2026-Q1": 0.5,
+          "2026-Q2": 0.5,
+          "2026-Q3": 0.4
+        }
+      },
+      {
+        "team": "Coverage East 2",
+        "bankers": 5,
+        "clients": 70,
+        "clients_per_banker": 14.0,
+        "capacity_target": 10,
+        "over_capacity": true,
+        "revenue_ttm": 276649476.5,
+        "revenue_per_banker_ttm": 55329895.3,
+        "win_rate_by_quarter": {
+          "2025-Q4": 0.4375,
+          "2026-Q1": 0.4,
+          "2026-Q2": 0.3,
+          "2026-Q3": 0.25
+        }
+      },
+      {
+        "team": "Coverage FI & Sponsors",
+        "bankers": 5,
+        "clients": 60,
+        "clients_per_banker": 12.0,
+        "capacity_target": 12,
+        "over_capacity": false,
+        "revenue_ttm": 241082316.14,
+        "revenue_per_banker_ttm": 48216463.23,
+        "win_rate_by_quarter": {
+          "2025-Q4": 0.4706,
+          "2026-Q1": 0.4545,
+          "2026-Q2": 0.48,
+          "2026-Q3": 0.5263
+        }
+      },
+      {
+        "team": "Coverage US",
+        "bankers": 5,
+        "clients": 20,
+        "clients_per_banker": 4.0,
+        "capacity_target": 8,
+        "over_capacity": false,
+        "revenue_ttm": 111997603.67,
+        "revenue_per_banker_ttm": 22399520.73,
+        "win_rate_by_quarter": {
+          "2025-Q4": 0.3333,
+          "2026-Q1": 0.5,
+          "2026-Q2": 0.4286,
+          "2026-Q3": 0.4
+        }
+      },
+      {
+        "team": "Coverage West",
+        "bankers": 5,
+        "clients": 25,
+        "clients_per_banker": 5.0,
+        "capacity_target": 8,
+        "over_capacity": false,
+        "revenue_ttm": 130592848.22,
+        "revenue_per_banker_ttm": 26118569.64,
+        "win_rate_by_quarter": {
+          "2025-Q4": 0.5,
+          "2026-Q1": 0.4286,
+          "2026-Q2": 0.4286,
+          "2026-Q3": 0.4286
+        }
+      }
+    ]
+  },
+  "story4_recon": {
+    "tolerance": 1000,
+    "breaks": [
+      {
+        "product_id": "P06",
+        "product_name": "Transaction Banking",
+        "month": "2026-06",
+        "control_total": 12383456.19,
+        "fact_total": 11183456.19,
+        "delta": 1200000.0
+      }
+    ]
+  },
+  "headline": {
+    "revenue_ttm": 834050083.22,
+    "revenue_by_product_ttm": {
+      "Lending": 450091364.9,
+      "M&A Advisory": 88131000.0,
+      "Debt Capital Markets": 18852000.0,
+      "Equity Capital Markets": 19420000.0,
+      "Rates & FX Hedging": 127425424.22,
+      "Transaction Banking": 130130294.1
+    },
+    "revenue_by_segment_ttm": {
+      "Financial Institutions": 143897295.19,
+      "Large Corporate": 464469735.93,
+      "Mid-Market": 128498031.15,
+      "Sponsor": 97185020.95
+    },
+    "revenue_by_calendar_quarter": {
+      "2024-Q4": 221050206.1,
+      "2025-Q1": 216973208.31,
+      "2025-Q2": 208733844.8,
+      "2025-Q3": 214222885.1,
+      "2025-Q4": 199243963.4,
+      "2026-Q1": 205887564.37,
+      "2026-Q2": 221592490.76,
+      "2026-Q3": 207326064.69
+    },
+    "products_per_client_ttm": 2.345,
+    "open_deals": 111,
+    "weighted_pipeline": 96788950.0
+  },
+  "data_quality": {
+    "null_banker_id_rows_in_coverage": 46,
+    "duplicate_deal_rows": 3,
+    "negative_fee_deal_ids": [
+      "D-20006"
+    ]
+  }
+}

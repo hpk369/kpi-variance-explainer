@@ -1,0 +1,100 @@
+{
+  "name": "northlake_cib_pipeline",
+  "description": "Northlake Bank (fictional), synthetic data. Daily: synthetic feed -> bronze -> silver (DQ) -> gold (star schema, recon) -> checks.",
+  "tags": {
+    "project": "northlake-cib",
+    "data": "synthetic"
+  },
+  "parameters": [
+    {
+      "name": "catalog",
+      "default": "cib_demo"
+    }
+  ],
+  "schedule": {
+    "quartz_cron_expression": "0 30 5 * * ?",
+    "timezone_id": "America/Toronto",
+    "pause_status": "UNPAUSED"
+  },
+  "max_concurrent_runs": 1,
+  "timeout_seconds": 3600,
+  "queue": {
+    "enabled": true
+  },
+  "email_notifications": {
+    "on_failure": [
+      "{{DATABRICKS_USER}}"
+    ],
+    "no_alert_for_skipped_runs": true
+  },
+  "tasks": [
+    {
+      "task_key": "daily_feed",
+      "description": "Writes missing synthetic days (Oct 1, 2026 to yesterday) into the volume",
+      "notebook_task": {
+        "notebook_path": "/Workspace/Users/{{DATABRICKS_USER}}/northlake-cib/pipeline/00_daily_feed",
+        "source": "WORKSPACE",
+        "base_parameters": {
+          "repo_root": "/Workspace/Users/{{DATABRICKS_USER}}/northlake-cib"
+        }
+      },
+      "timeout_seconds": 1800
+    },
+    {
+      "task_key": "bronze",
+      "description": "Loads volume files into bronze tables",
+      "notebook_task": {
+        "notebook_path": "/Workspace/Users/{{DATABRICKS_USER}}/northlake-cib/pipeline/01_bronze",
+        "source": "WORKSPACE"
+      },
+      "timeout_seconds": 1800,
+      "depends_on": [
+        {
+          "task_key": "daily_feed"
+        }
+      ]
+    },
+    {
+      "task_key": "silver",
+      "description": "Types, de-duplicates, data-quality rules, quarantine",
+      "notebook_task": {
+        "notebook_path": "/Workspace/Users/{{DATABRICKS_USER}}/northlake-cib/pipeline/02_silver",
+        "source": "WORKSPACE"
+      },
+      "timeout_seconds": 1800,
+      "depends_on": [
+        {
+          "task_key": "bronze"
+        }
+      ]
+    },
+    {
+      "task_key": "gold",
+      "description": "Star schema, recon_control, dq_summary, config, v_pbi_meta, UC comments",
+      "notebook_task": {
+        "notebook_path": "/Workspace/Users/{{DATABRICKS_USER}}/northlake-cib/pipeline/03_gold",
+        "source": "WORKSPACE"
+      },
+      "timeout_seconds": 1800,
+      "depends_on": [
+        {
+          "task_key": "silver"
+        }
+      ]
+    },
+    {
+      "task_key": "checks",
+      "description": "Compares gold with expected_answers.json; fails on unexpected breaks or DQ failures",
+      "notebook_task": {
+        "notebook_path": "/Workspace/Users/{{DATABRICKS_USER}}/northlake-cib/pipeline/04_checks",
+        "source": "WORKSPACE"
+      },
+      "timeout_seconds": 1800,
+      "depends_on": [
+        {
+          "task_key": "gold"
+        }
+      ]
+    }
+  ]
+}

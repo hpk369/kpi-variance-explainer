@@ -1,0 +1,870 @@
+{
+ "built_at": "2026-11-25T09:08:10",
+ "as_of": "2026-11-24",
+ "note": "Recorded answers from the live agent (Northlake Bank, fictional, synthetic data).",
+ "questions": [
+  {
+   "question": "Why did Industrials revenue miss plan in Q3?",
+   "answer": "**Headline:** Industrials Q3 revenue missed plan by **$8.8\u202fM**, driven almost entirely by an M&A Advisory shortfall.\n\n**Drivers**\n- M&A Advisory product: **\u2011$7.5\u202fM** variance, **85\u202f%** of the total gap.  \n- Lending product: **\u2011$1.3\u202fM** variance, **15\u202f%** of the total gap.  \n- Meadowlark Fabrication client: **\u2011$4.6\u202fM** variance, **52\u202f%** of the gap.  \n- Thornbury Components client: **\u2011$3.0\u202fM** variance, **34\u202f%** of the gap.  \n\n**Executive paragraph**  \nThe Industrials segment fell **$8.8\u202fM** short of its Q3 budget, a miss of **\u201119\u202f%**. The bulk of the shortfall stems from M&A Advisory revenue, which recorded zero bookings versus a $7.5\u202fM plan, accounting for **85\u202f%** of the variance. Two slipped M&A deals\u2014Meadowlark Fabrication ($4.5\u202fM) and Thornbury Components ($3.0\u202fM)\u2014closed after the quarter, turning expected fees into timing variance. Lending contributed the remaining gap.\n\n**Definitions used**\n- Revenue vs Plan: How far booked revenue is above or below the approved plan; a negative variance is a miss. (Source: CIB Business Definitions Glossary \u203a Revenue vs Plan)  \n- Variance driver: A product, client, etc., ranked by how much of the total revenue gap it explains. (Source: CIB Business Definitions Glossary \u203a Variance driver)  \n- Slipped deal: A deal expected to close in a period but closed later, causing a timing variance. (Source: CIB Business Definitions Glossary \u203a Slipped deal)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "work": {
+    "question": "Why did Industrials revenue miss plan in Q3?",
+    "outcome": "answered",
+    "as_of": "2026-11-24",
+    "tool_calls": [
+     {
+      "name": "get_kpi",
+      "params": {
+       "metric": "revenue",
+       "period": "2026-Q3",
+       "segment": "Industrials"
+      },
+      "sql": "SELECT * FROM cib_demo.gold.get_kpi('revenue', '2026-Q3', 'Industrials')",
+      "row_count": 1,
+      "rows_preview": [
+       {
+        "metric": "revenue",
+        "period": "2026-Q3",
+        "segment": "Industrials",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "is_partial": false,
+        "actual": 38036512.05,
+        "plan": 46836512.03,
+        "var_vs_plan": -8799999.98,
+        "pct_vs_plan": -0.1879,
+        "prior_period": 50124479.94,
+        "var_vs_prior": -12087967.89,
+        "pct_vs_prior": -0.2412,
+        "prior_period_start": "2026-04-01",
+        "prior_period_end": "2026-06-30",
+        "unit": "CAD",
+        "as_of_date": "2026-11-24",
+        "note": "Booked revenue vs budget.",
+        "error": null
+       }
+      ],
+      "error": null,
+      "seconds": 1.37
+     },
+     {
+      "name": "variance_drivers",
+      "params": {
+       "metric": "revenue",
+       "period": "2026-Q3",
+       "compare_to": "plan",
+       "dimension": "product",
+       "segment": "Industrials"
+      },
+      "sql": "SELECT * FROM cib_demo.gold.variance_drivers('revenue', '2026-Q3', 'plan', 'product', 'Industrials', 10)",
+      "row_count": 4,
+      "rows_preview": [
+       {
+        "dimension": "product",
+        "dimension_id": "P02",
+        "dimension_value": "M&A Advisory",
+        "actual": 0.0,
+        "comparison": 7500000.0,
+        "delta": -7500000.0,
+        "share_of_total_delta": 0.8523,
+        "rank": 1,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       },
+       {
+        "dimension": "product",
+        "dimension_id": "P01",
+        "dimension_value": "Lending",
+        "actual": 27238900.02,
+        "comparison": 28518259.89,
+        "delta": -1279359.87,
+        "share_of_total_delta": 0.1454,
+        "rank": 2,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       },
+       {
+        "dimension": "product",
+        "dimension_id": "P05",
+        "dimension_value": "Rates & FX Hedging",
+        "actual": 5074724.1,
+        "comparison": 5086973.41,
+        "delta": -12249.31,
+        "share_of_total_delta": 0.0014,
+        "rank": 3,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       },
+       {
+        "dimension": "product",
+        "dimension_id": "P06",
+        "dimension_value": "Transaction Banking",
+        "actual": 5722887.93,
+        "comparison": 5731278.73,
+        "delta": -8390.8,
+        "share_of_total_delta": 0.001,
+        "rank": 4,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       }
+      ],
+      "error": null,
+      "seconds": 0.89
+     },
+     {
+      "name": "variance_drivers",
+      "params": {
+       "metric": "revenue",
+       "period": "2026-Q3",
+       "compare_to": "plan",
+       "dimension": "client",
+       "segment": "Industrials",
+       "top_n": 5
+      },
+      "sql": "SELECT * FROM cib_demo.gold.variance_drivers('revenue', '2026-Q3', 'plan', 'client', 'Industrials', 5)",
+      "row_count": 5,
+      "rows_preview": [
+       {
+        "dimension": "client",
+        "dimension_id": "C-1001",
+        "dimension_value": "Meadowlark Fabrication (fictional)",
+        "actual": 1455629.79,
+        "comparison": 6040451.14,
+        "delta": -4584821.35,
+        "share_of_total_delta": 0.521,
+        "rank": 1,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       },
+       {
+        "dimension": "client",
+        "dimension_id": "C-1002",
+        "dimension_value": "Thornbury Components (fictional)",
+        "actual": 1544578.04,
+        "comparison": 4554215.77,
+        "delta": -3009637.73,
+        "share_of_total_delta": 0.342,
+        "rank": 2,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       },
+       {
+        "dimension": "client",
+        "dimension_id": "C-1027",
+        "dimension_value": "Arbor Fabrication (fictional)",
+        "actual": 2048620.32,
+        "comparison": 2163080.46,
+        "delta": -114460.14,
+        "share_of_total_delta": 0.013,
+        "rank": 3,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       },
+       {
+        "dimension": "client",
+        "dimension_id": "C-1043",
+        "dimension_value": "Highfield Industries (fictional)",
+        "actual": 2589500.26,
+        "comparison": 2698589.78,
+        "delta": -109089.52,
+        "share_of_total_delta": 0.0124,
+        "rank": 4,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       },
+       {
+        "dimension": "client",
+        "dimension_id": "C-1003",
+        "dimension_value": "Hollins Fabrication (fictional)",
+        "actual": 2086029.11,
+        "comparison": 2194716.49,
+        "delta": -108687.38,
+        "share_of_total_delta": 0.0124,
+        "rank": 5,
+        "total_actual": 38036512.05,
+        "total_comparison": 46836512.03,
+        "total_delta": -8799999.98,
+        "compare_to": "plan",
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "comparison_start": "2026-07-01",
+        "comparison_end": "2026-09-30",
+        "error": null
+       }
+      ],
+      "error": null,
+      "seconds": 0.84
+     },
+     {
+      "name": "pipeline_conversion",
+      "params": {
+       "period": "2026-Q3",
+       "segment": "Industrials",
+       "detail": "slipped"
+      },
+      "sql": "SELECT * FROM cib_demo.gold.pipeline_conversion('2026-Q3', 'Industrials', 'slipped')",
+      "row_count": 2,
+      "rows_preview": [
+       {
+        "row_type": "deal",
+        "outcome": "slipped",
+        "deals": 1,
+        "expected_fee": 4500000.0,
+        "actual_fee": 4500000.0,
+        "share_of_deals": null,
+        "share_of_expected_fee": null,
+        "cohort_deals": 10,
+        "cohort_expected_fee": 23033000.0,
+        "cohort_win_rate": 0.125,
+        "deal_id": "D-20458",
+        "deal_name": "M&A Advisory \u00b7 C-1001",
+        "client_id": "C-1001",
+        "client_name": "Meadowlark Fabrication (fictional)",
+        "industry": "Industrials",
+        "product_name": "M&A Advisory",
+        "banker_name": "Avery Abbott",
+        "team": "Coverage East 1",
+        "stage_now": "Closed Won",
+        "status_now": "Won",
+        "expected_close_date": "2026-08-20",
+        "actual_close_date": "2026-11-12",
+        "days_late": 84,
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "as_of_date": "2026-11-24",
+        "error": null
+       },
+       {
+        "row_type": "deal",
+        "outcome": "slipped",
+        "deals": 1,
+        "expected_fee": 3000000.0,
+        "actual_fee": 3000000.0,
+        "share_of_deals": null,
+        "share_of_expected_fee": null,
+        "cohort_deals": 10,
+        "cohort_expected_fee": 23033000.0,
+        "cohort_win_rate": 0.125,
+        "deal_id": "D-20466",
+        "deal_name": "M&A Advisory \u00b7 C-1002",
+        "client_id": "C-1002",
+        "client_name": "Thornbury Components (fictional)",
+        "industry": "Industrials",
+        "product_name": "M&A Advisory",
+        "banker_name": "Blake Bishop",
+        "team": "Coverage East 1",
+        "stage_now": "Closed Won",
+        "status_now": "Won",
+        "expected_close_date": "2026-08-27",
+        "actual_close_date": "2026-11-19",
+        "days_late": 84,
+        "period_start": "2026-07-01",
+        "period_end": "2026-09-30",
+        "as_of_date": "2026-11-24",
+        "error": null
+       }
+      ],
+      "error": null,
+      "seconds": 0.8
+     }
+    ],
+    "retrieved": [
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "Revenue vs Plan",
+      "score": 0.6724044507433995
+     },
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "Variance driver",
+      "score": 0.7041818906304371
+     },
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "Slipped deal",
+      "score": 0.7240405565128163
+     }
+    ],
+    "retrieval_mode": "vector_search",
+    "retrieval_note": null,
+    "number_check": {
+     "passed": true,
+     "unmatched": [],
+     "retries": 0,
+     "checked": 15,
+     "attempts": [
+      {
+       "passed": true,
+       "unmatched": [],
+       "checked": 15
+      }
+     ]
+    },
+    "models": [
+     "qwen35-122b-a10b",
+     "gpt-oss-120b"
+    ],
+    "draft_diagnostics": [
+     {
+      "attempt": 1,
+      "calls": [
+       {
+        "model": "gpt-oss-120b",
+        "max_tokens": 10000,
+        "finish_reason": "stop",
+        "content_type": "str",
+        "chars": 1477,
+        "completion_tokens": 1137
+       }
+      ]
+     }
+    ],
+    "claim_check": {
+     "enabled": true,
+     "runs": [
+      {
+       "attempt": 1,
+       "unsupported": [],
+       "model": "gpt-oss-120b"
+      }
+     ],
+     "passed": true
+    },
+    "refusal_reason": null,
+    "latency_ms": 25855,
+    "trace_id": null
+   },
+   "recorded_at": "2026-11-25T09:02:46"
+  },
+  {
+   "question": "Which clients are below the RAROC hurdle but have cross-sell whitespace?",
+   "answer": "**Headline:** 20 clients are below the 15% RAROC hurdle and each has cross\u2011sell whitespace.\n\n**Drivers**\n- Lakemont Data \u2013 RAROC 12%, revenue $1.9M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory.  \n- Alder Data \u2013 RAROC 9%, revenue $0.95M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n- Hollins Energy \u2013 RAROC 9%, revenue $0.65M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n- Queensway Capital \u2013 RAROC 5%, revenue $1.2M, missing Debt Capital Markets, Equity Capital Markets, Lending, M&A Advisory, Rates & FX Hedging.  \n- Northwind Midstream \u2013 RAROC 6%, revenue $0.86M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.\n\n**Executive paragraph**  \nAll 20 clients in the latest view fall short of the 15% hurdle and have at least one product gap. The cohort is split 19 Mid\u2011Market and 1 Financial Institutions client. Eighteen hold only Lending, one holds Transaction Banking, and one holds Lending, Rates & FX Hedging, and Transaction Banking. The lowest\u2011RAROC client is Queensway Capital (5%) which is missing five fee\u2011product opportunities.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12 months as a percentage. (Source: CIB Business Definitions Glossary \u203a RAROC)  \n- Hurdle rate: The minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15%. (Source: CIB Business Definitions Glossary \u203a Hurdle rate)  \n- Cross\u2011sell whitespace: Products a below\u2011hurdle client does not yet hold; missing products are those not generating revenue in the trailing 12 months. (Source: CIB Business Definitions Glossary \u203a Cross\u2011sell whitespace)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "work": {
+    "question": "Which clients are below the RAROC hurdle but have cross-sell whitespace?",
+    "outcome": "answered",
+    "as_of": "2026-11-24",
+    "tool_calls": [
+     {
+      "name": "cross_sell_whitespace",
+      "params": {
+       "segment": "ALL",
+       "period": "LATEST"
+      },
+      "sql": "SELECT * FROM cib_demo.gold.cross_sell_whitespace('ALL', CAST(NULL AS DOUBLE), 'LATEST')",
+      "row_count": 20,
+      "rows_preview": [
+       {
+        "client_id": "C-1163",
+        "client_name": "Queensway Capital (fictional)",
+        "segment": "Financial Institutions",
+        "industry": "Financials",
+        "team": "Coverage FI & Sponsors",
+        "coverage_banker": "Leah Wong",
+        "raroc": 0.048,
+        "max_raroc": 0.15,
+        "hurdle_rate": 0.15,
+        "gap_to_hurdle": -0.102,
+        "revenue_ttm": 1239675.1,
+        "allocated_capital_avg": 9543435.11,
+        "products_held": "Transaction Banking",
+        "products_held_count": 1,
+        "missing_products": "Debt Capital Markets, Equity Capital Markets, Lending, M&A Advisory, Rates & FX Hedging",
+        "window_start": "2025-11-01",
+        "window_end": "2026-10-31",
+        "error": null
+       },
+       {
+        "client_id": "C-1092",
+        "client_name": "Northwind Midstream (fictional)",
+        "segment": "Mid-Market",
+        "industry": "Energy",
+        "team": "Coverage East 2",
+        "coverage_banker": "Logan Jensen",
+        "raroc": 0.0603,
+        "max_raroc": 0.15,
+        "hurdle_rate": 0.15,
+        "gap_to_hurdle": -0.0897,
+        "revenue_ttm": 858331.32,
+        "allocated_capital_avg": 4374746.8,
+        "products_held": "Lending",
+        "products_held_count": 1,
+        "missing_products": "Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking",
+        "window_start": "2025-11-01",
+        "window_end": "2026-10-31",
+        "error": null
+       },
+       {
+        "client_id": "C-1057",
+        "client_name": "Nettlefield Medical (fictional)",
+        "segment": "Mid-Market",
+        "industry": "Healthcare",
+        "team": "Coverage East 2",
+        "coverage_banker": "Jordan Hughes",
+        "raroc": 0.0631,
+        "max_raroc": 0.15,
+        "hurdle_rate": 0.15,
+        "gap_to_hurdle": -0.0869,
+        "revenue_ttm": 833991.5,
+        "allocated_capital_avg": 3979888.28,
+        "products_held": "Lending",
+        "products_held_count": 1,
+        "missing_products": "Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking",
+        "window_start": "2025-11-01",
+        "window_end": "2026-10-31",
+        "error": null
+       },
+       {
+        "client_id": "C-1065",
+        "client_name": "Rosehill Power (fictional)",
+        "segment": "Mid-Market",
+        "industry": "Energy",
+        "team": "Coverage East 2",
+        "coverage_banker": "Jordan Hughes",
+        "raroc": 0.0636,
+        "max_raroc": 0.15,
+        "hurdle_rate": 0.15,
+        "gap_to_hurdle": -0.0864,
+        "revenue_ttm": 768721.38,
+        "allocated_capital_avg": 3518266.08,
+        "products_held": "Lending",
+        "products_held_count": 1,
+        "missing_products": "Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking",
+        "window_start": "2025-11-01",
+        "window_end": "2026-10-31",
+        "error": null
+       },
+       {
+        "client_id": "C-1055",
+        "client_name": "Cedarcrest Networks (fictional)",
+        "segment": "Mid-Market",
+        "industry": "Technology",
+        "team": "Coverage East 2",
+        "coverage_banker": "Finley Fraser",
+        "raroc": 0.064,
+        "max_raroc": 0.15,
+        "hurdle_rate": 0.15,
+        "gap_to_hurdle": -0.086,
+        "revenue_ttm": 1048945.21,
+        "allocated_capital_avg": 5178699.8,
+        "products_held": "Lending",
+        "products_held_count": 1,
+        "missing_products": "Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking",
+        "window_start": "2025-11-01",
+        "window_end": "2026-10-31",
+        "error": null
+       }
+      ],
+      "error": null,
+      "seconds": 0.84
+     }
+    ],
+    "retrieved": [
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "RAROC",
+      "score": 0.5938693593768565
+     },
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "Hurdle rate",
+      "score": 0.6956815515086308
+     },
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "Cross-sell whitespace",
+      "score": 0.6982793577392569
+     }
+    ],
+    "retrieval_mode": "vector_search",
+    "retrieval_note": null,
+    "number_check": {
+     "passed": true,
+     "unmatched": [],
+     "retries": 0,
+     "checked": 18,
+     "attempts": [
+      {
+       "passed": true,
+       "unmatched": [],
+       "checked": 18
+      }
+     ]
+    },
+    "models": [
+     "qwen35-122b-a10b",
+     "gpt-oss-120b"
+    ],
+    "draft_diagnostics": [
+     {
+      "attempt": 1,
+      "calls": [
+       {
+        "model": "gpt-oss-120b",
+        "max_tokens": 10000,
+        "finish_reason": "stop",
+        "content_type": "str",
+        "chars": 1897,
+        "completion_tokens": 1179
+       }
+      ]
+     }
+    ],
+    "claim_check": {
+     "enabled": true,
+     "runs": [
+      {
+       "attempt": 1,
+       "unsupported": [],
+       "model": "gpt-oss-120b"
+      }
+     ],
+     "passed": true
+    },
+    "refusal_reason": null,
+    "latency_ms": 23256,
+    "trace_id": null
+   },
+   "recorded_at": "2026-11-25T09:03:55"
+  },
+  {
+   "question": "Which coverage teams are over capacity, and how is their win rate trending?",
+   "answer": "**Headline:** Coverage\u202fEast\u202f2 is the only team over capacity; its win rate is falling every quarter.\n\n**Drivers**\n- Over\u2011capacity flag: true (clients per banker\u202f14\u202fvs target\u202f10)  \n- Win\u2011rate trend: \u201cfalling every quarter\u201d  \n- Win\u2011rate Q4\u202f2025: 44%  \n- Win\u2011rate Q3\u202f2026: 25% (0.25)\n\n**Executive paragraph**  \nCoverage\u202fEast\u202f2 exceeds its client\u2011per\u2011banker target, indicating bankers are stretched thin. The team\u2019s win rate has declined each quarter from 44% to 25%, consistent with the expected impact of over\u2011capacity on deal success.\n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team\u2019s target; over capacity when clients per banker\u202f>\u202ftarget (Source: CIB Business Definitions Glossary \u203a Coverage capacity)  \n- Win rate: Share of decided deals that Northlake won; win rate\u202f=\u202fdeals won\u202f\u00f7\u202f(deals won\u202f+\u202fdeals lost) (Source: CIB Business Definitions Glossary \u203a Win rate)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "work": {
+    "question": "Which coverage teams are over capacity, and how is their win rate trending?",
+    "outcome": "answered",
+    "as_of": "2026-11-24",
+    "tool_calls": [
+     {
+      "name": "coverage_capacity",
+      "params": {
+       "team": "ALL",
+       "quarters": 4
+      },
+      "sql": "SELECT * FROM cib_demo.gold.coverage_capacity('ALL', 4)",
+      "row_count": 20,
+      "rows_preview": [
+       {
+        "team": "Coverage East 1",
+        "quarter": "2025-Q4",
+        "bankers": 5,
+        "clients": 25,
+        "clients_per_banker": 5.0,
+        "capacity_target": 8,
+        "over_capacity": false,
+        "revenue_ttm": 73779381.49,
+        "revenue_per_banker_ttm": 14755876.3,
+        "meetings_per_client_ttm": 15.04,
+        "deals_closed": 7,
+        "deals_won": 4,
+        "win_rate": 0.5714,
+        "ttm_window_end": "2026-10-31",
+        "error": null
+       },
+       {
+        "team": "Coverage East 1",
+        "quarter": "2026-Q1",
+        "bankers": 5,
+        "clients": 25,
+        "clients_per_banker": 5.0,
+        "capacity_target": 8,
+        "over_capacity": false,
+        "revenue_ttm": 73779381.49,
+        "revenue_per_banker_ttm": 14755876.3,
+        "meetings_per_client_ttm": 15.04,
+        "deals_closed": 4,
+        "deals_won": 2,
+        "win_rate": 0.5,
+        "ttm_window_end": "2026-10-31",
+        "error": null
+       },
+       {
+        "team": "Coverage East 1",
+        "quarter": "2026-Q2",
+        "bankers": 5,
+        "clients": 25,
+        "clients_per_banker": 5.0,
+        "capacity_target": 8,
+        "over_capacity": false,
+        "revenue_ttm": 73779381.49,
+        "revenue_per_banker_ttm": 14755876.3,
+        "meetings_per_client_ttm": 15.04,
+        "deals_closed": 6,
+        "deals_won": 3,
+        "win_rate": 0.5,
+        "ttm_window_end": "2026-10-31",
+        "error": null
+       },
+       {
+        "team": "Coverage East 1",
+        "quarter": "2026-Q3",
+        "bankers": 5,
+        "clients": 25,
+        "clients_per_banker": 5.0,
+        "capacity_target": 8,
+        "over_capacity": false,
+        "revenue_ttm": 73779381.49,
+        "revenue_per_banker_ttm": 14755876.3,
+        "meetings_per_client_ttm": 15.04,
+        "deals_closed": 5,
+        "deals_won": 2,
+        "win_rate": 0.4,
+        "ttm_window_end": "2026-10-31",
+        "error": null
+       },
+       {
+        "team": "Coverage East 2",
+        "quarter": "2025-Q4",
+        "bankers": 5,
+        "clients": 70,
+        "clients_per_banker": 14.0,
+        "capacity_target": 10,
+        "over_capacity": true,
+        "revenue_ttm": 276871745.96,
+        "revenue_per_banker_ttm": 55374349.19,
+        "meetings_per_client_ttm": 8.71,
+        "deals_closed": 16,
+        "deals_won": 7,
+        "win_rate": 0.4375,
+        "ttm_window_end": "2026-10-31",
+        "error": null
+       }
+      ],
+      "error": null,
+      "seconds": 0.82
+     }
+    ],
+    "retrieved": [
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "Coverage capacity",
+      "score": 0.6758145038985856
+     },
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "Win rate",
+      "score": 0.6081600357307296
+     }
+    ],
+    "retrieval_mode": "vector_search",
+    "retrieval_note": null,
+    "number_check": {
+     "passed": true,
+     "unmatched": [],
+     "retries": 0,
+     "checked": 6,
+     "attempts": [
+      {
+       "passed": true,
+       "unmatched": [],
+       "checked": 6
+      }
+     ]
+    },
+    "models": [
+     "qwen35-122b-a10b",
+     "gpt-oss-120b"
+    ],
+    "draft_diagnostics": [
+     {
+      "attempt": 1,
+      "calls": [
+       {
+        "model": "gpt-oss-120b",
+        "max_tokens": 10000,
+        "finish_reason": "stop",
+        "content_type": "str",
+        "chars": 1125,
+        "completion_tokens": 692
+       }
+      ]
+     }
+    ],
+    "claim_check": {
+     "enabled": true,
+     "runs": [
+      {
+       "attempt": 1,
+       "unsupported": [],
+       "model": "gpt-oss-120b"
+      }
+     ],
+     "passed": true
+    },
+    "refusal_reason": null,
+    "latency_ms": 12929,
+    "trace_id": null
+   },
+   "recorded_at": "2026-11-25T09:04:23"
+  },
+  {
+   "question": "Are there any reconciliation breaks?",
+   "answer": "**Headline:** Yes \u2013 a $1.2\u202fM reconciliation break was identified for Transaction Banking in June\u202f2026.  \n\n**Drivers**\n- Product\u202fTransaction Banking (P06) \u2013 GL $12.4\u202fM vs booked $11.2\u202fM, delta $1.2\u202fM.  \n- Month\u202f2026\u201106 \u2013 delta exceeds the $1\u202fK tolerance.  \n- Period\u202f2024\u201110\u201101 to 2026\u201111\u201124 \u2013 145 months checked.  \n- Severity\u202f1 \u2013 break \u2265\u202f$1\u202fM (per SOP).  \n\n**Executive paragraph**  \nThe reconciliation control flagged a break for Transaction Banking in June\u202f2026, with the GL control total $12.4\u202fM exceeding booked revenue by $1.2\u202fM. The size places the issue in Severity\u202f1, requiring escalation to the Head of CIB Finance within two business days and tracking on the CFO office watch list if not resolved by the second month\u2011end.  \n\n**Definitions used**\n- Reconciliation break: A product and month where booked revenue differs from the GL control total by more than $1,000; positive delta indicates a missing booking. (Source: CIB Business Definitions Glossary)  \n- Severity\u202f1: A reconciliation break of $1\u202fM or more, or any break open at a second month\u2011end. (Source: SOP: Data-Quality (DQ) and Reconciliation Breaks)  \n- Escalation (Severity\u202f1): Head of CIB Finance notified within two business days; unresolved after two further month\u2011ends escalates to the CFO office watch list. (Source: SOP: Data-Quality (DQ) and Reconciliation Breaks)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "work": {
+    "question": "Are there any reconciliation breaks?",
+    "outcome": "answered",
+    "as_of": "2026-11-24",
+    "tool_calls": [
+     {
+      "name": "recon_breaks",
+      "params": {
+       "period": "ALL"
+      },
+      "sql": "SELECT * FROM cib_demo.gold.recon_breaks('ALL')",
+      "row_count": 1,
+      "rows_preview": [
+       {
+        "status": "break",
+        "product_id": "P06",
+        "product_name": "Transaction Banking",
+        "month": "2026-06",
+        "control_total": 12383456.19,
+        "fact_total": 11183456.19,
+        "delta": 1200000.0,
+        "tolerance": 1000.0,
+        "months_checked": 145,
+        "period_start": "2024-10-01",
+        "period_end": "2026-11-24",
+        "note": "GL is higher than booked revenue: a booking may be missing.",
+        "error": null
+       }
+      ],
+      "error": null,
+      "seconds": 0.73
+     }
+    ],
+    "retrieved": [
+     {
+      "doc": "CIB Business Definitions Glossary",
+      "doc_id": "glossary",
+      "section": "Reconciliation break",
+      "score": 0.5779861801865996
+     },
+     {
+      "doc": "SOP: Data-Quality (DQ) and Reconciliation Breaks",
+      "doc_id": "sop_dq_breaks",
+      "section": "Escalation",
+      "score": 0.6140241862244789
+     },
+     {
+      "doc": "SOP: Data-Quality (DQ) and Reconciliation Breaks",
+      "doc_id": "sop_dq_breaks",
+      "section": "Severity",
+      "score": 0.5874399865876047
+     }
+    ],
+    "retrieval_mode": "vector_search",
+    "retrieval_note": null,
+    "number_check": {
+     "passed": true,
+     "unmatched": [],
+     "retries": 0,
+     "checked": 11,
+     "attempts": [
+      {
+       "passed": true,
+       "unmatched": [],
+       "checked": 11
+      }
+     ]
+    },
+    "models": [
+     "qwen35-122b-a10b",
+     "gpt-oss-120b"
+    ],
+    "draft_diagnostics": [
+     {
+      "attempt": 1,
+      "calls": [
+       {
+        "model": "gpt-oss-120b",
+        "max_tokens": 10000,
+        "finish_reason": "stop",
+        "content_type": "str",
+        "chars": 1413,
+        "completion_tokens": 919
+       }
+      ]
+     }
+    ],
+    "claim_check": {
+     "enabled": true,
+     "runs": [
+      {
+       "attempt": 1,
+       "unsupported": [],
+       "model": "gpt-oss-120b"
+      }
+     ],
+     "passed": true
+    },
+    "refusal_reason": null,
+    "latency_ms": 168910,
+    "trace_id": null
+   },
+   "recorded_at": "2026-11-25T09:08:10"
+  }
+ ]
+}

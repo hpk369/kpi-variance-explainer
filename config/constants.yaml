@@ -1,0 +1,53 @@
+# Northlake Bank (fictional) · CIB Performance Insights Agent
+# Single source of truth for numbers used by the generator, SQL, DAX and the agent.
+# Change a value here, then re-run the generator (python generator/generate.py).
+version: "2026.11-v1"
+bank: "Northlake Bank (fictional)"
+currency: CAD
+seed: 1520075
+
+dates:
+  history_start: "2024-10-01"   # first month of monthly history
+  history_end: "2026-09-30"     # last day of the planted-story history (Q3 2026)
+  feed_start: "2026-10-01"      # daily synthetic feed starts here and runs to yesterday
+  plan_end: "2027-12-31"        # plan figures exist for every month up to here
+
+raroc:
+  hurdle_rate: 0.15             # same hurdle as the live P2 project
+  tax_rate: 0.25
+  # RAROC = (revenue - cost allocation - expected loss) x (1 - tax) / allocated capital, trailing 12 months
+
+stories:
+  industrials_q3:
+    quarter: "2026-Q3"
+    mandates:                   # two M&A mandates that slip from Aug 2026 to Nov 2026
+      - {fee: 4500000, expected_close: "2026-08-20", actual_close: "2026-11-12"}
+      - {fee: 3000000, expected_close: "2026-08-27", actual_close: "2026-11-19"}
+    other_products_shortfall: 1300000   # rest of Industrials misses plan by this much in Q3
+  whitespace:
+    lending_only_mid_market: 18
+    raroc_range: [0.06, 0.09]
+  capacity:
+    team: "Coverage East 2"
+    clients: 70                 # 5 bankers x 14 clients vs a target of 10
+    win_rate_by_quarter: {"2025-Q4": 0.45, "2026-Q1": 0.38, "2026-Q2": 0.31, "2026-Q3": 0.25}
+  recon_break:
+    product_id: "P06"           # Transaction Banking
+    month: "2026-06-01"
+    amount: 1200000             # GL control total is higher than the booked revenue (missed booking)
+
+databricks:
+  catalog: cib_demo
+  volume: raw                   # cib_demo.bronze.raw
+  workspace_folder: northlake-cib
+
+models:                         # bare names; the code adds system.ai. / databricks- itself
+  llm: qwen35-122b-a10b           # plans and calls the tools
+  llm_fallback: gpt-oss-120b
+  draft: gpt-oss-120b             # writes the answer (qwen spends 6k-26k tokens thinking first; gpt-oss ~1k)
+  verifier: gpt-oss-120b          # claim check: reads the answer against the tool results before it is released
+  embedding: gte-large-en
+
+vector_search:
+  endpoint: cib_vs_endpoint
+  index: cib_demo.gold.doc_chunks_idx

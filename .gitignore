@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.log
+generator/out/*
+!generator/out/expected_answers.json
+space/build/
+powerbi/csv/
+build/
+mlflow.db
+mlruns/
+eval/results/run_*.json
+eval/results/.write_test
+# local evidence and saved pages (not for the public repo)
+runs/
+GateTest*
