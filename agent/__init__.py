@@ -1,1 +1,1 @@
-"""Northlake Insights Agent (synthetic data only)."""
+"""KPI Insights Agent (synthetic data only)."""

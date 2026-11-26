@@ -1,1 +1,1 @@
-"""Shared helpers for the Northlake Insights Agent (synthetic data only)."""
+"""Shared helpers for the KPI Insights Agent (synthetic data only)."""

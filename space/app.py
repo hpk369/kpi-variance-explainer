@@ -1,4 +1,4 @@
-"""Northlake Insights Agent: the public Space (Gradio).
+"""KPI Insights Agent: the public Space (Gradio).
 
 The page draws the intro, the 4 suggested questions, the answer and the "Show your work" panel. Everything else
 (input checks, rate limits, the live agent call and the cached fallback) is in core.py.
@@ -34,8 +34,8 @@ def ask(question: str, used: int):
     yield r.answer, r.work, r.used, core.remaining_text(r.used)
 
 
-with gr.Blocks(title="Northlake Insights") as demo:
-    gr.Markdown("# Northlake Insights Agent")
+with gr.Blocks(title="KPI Insights Agent") as demo:
+    gr.Markdown("# KPI Insights Agent")
     gr.Markdown(INTRO + "\n\n" + NOTICE)
     used = gr.State(0)
     with gr.Row():
@@ -55,7 +55,7 @@ with gr.Blocks(title="Northlake Insights") as demo:
         b.click(lambda q=q: q, None, box, queue=False, api_visibility="private").then(ask, [box, used], outputs, **run)
 
     gr.Markdown("Code and evaluation scorecard: "
-                "[github.com/hpk369/northlake-insights-agent](https://github.com/hpk369/northlake-insights-agent)")
+                "[github.com/hpk369/kpi-insights-agent](https://github.com/hpk369/kpi-insights-agent)")
 
 if __name__ == "__main__":
     demo.queue(max_size=20).launch(ssr_mode=False, css=CSS)

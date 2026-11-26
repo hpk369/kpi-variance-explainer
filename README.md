@@ -1,4 +1,4 @@
-# Northlake Insights Agent
+# KPI Insights Agent
 
 **Live demo: https://insights.inkandinfra.com**
 
