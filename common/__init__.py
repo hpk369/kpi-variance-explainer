@@ -1,1 +1,1 @@
-"""Shared helpers for the KPI Insights Agent (synthetic data only)."""
+"""Shared helpers for the KPI Variance Explainer (synthetic data only)."""

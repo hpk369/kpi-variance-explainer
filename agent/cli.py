@@ -67,7 +67,7 @@ def show_work(w: dict) -> str:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Ask the KPI Insights Agent (synthetic data).")
+    ap = argparse.ArgumentParser(description="Ask the KPI Variance Explainer (synthetic data).")
     ap.add_argument("question", nargs="?", help="the question, in quotes")
     ap.add_argument("--show-work", action="store_true", help="print tool calls, SQL, retrieved definitions and the number check")
     ap.add_argument("--inject-wrong-number", action="store_true", help="corrupt a figure in every draft (blocked-answer demo)")

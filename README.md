@@ -1,4 +1,4 @@
-# KPI Insights Agent
+# KPI Variance Explainer
 
 **Live demo: https://insights.inkandinfra.com**
 

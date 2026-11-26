@@ -1,1 +1,1 @@
-"""KPI Insights Agent (synthetic data only)."""
+"""KPI Variance Explainer (synthetic data only)."""
