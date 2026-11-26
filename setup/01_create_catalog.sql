@@ -4,7 +4,7 @@
 -- and re-run (the CREATE CATALOG line then does nothing).
 
 CREATE CATALOG IF NOT EXISTS ${catalog};
-COMMENT ON CATALOG ${catalog} IS 'Northlake Bank (fictional) CIB analytics demo. Synthetic data only.';
+COMMENT ON CATALOG ${catalog} IS 'Northlake Bank (fictional) analytics demo. Synthetic data only.';
 
 CREATE SCHEMA IF NOT EXISTS ${catalog}.bronze COMMENT 'Raw synthetic files as loaded, plus ingest metadata';
 CREATE SCHEMA IF NOT EXISTS ${catalog}.silver COMMENT 'Typed, de-duplicated, data-quality checked';

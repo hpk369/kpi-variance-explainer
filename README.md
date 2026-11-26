@@ -1,8 +1,8 @@
-# Northlake CIB Performance Insights Agent
+# Northlake Insights Agent
 
 **Live demo: https://insights.inkandinfra.com**
 
-An agent that tells CIB senior management **why a KPI moved and where the opportunity is**, built on Databricks for **Northlake Bank, a fictional bank**. Every client, deal and figure is synthetic.
+An agent that tells senior management **why a KPI moved and where the opportunity is**, built on Databricks for **Northlake Bank, a fictional bank**. Every client, deal and figure is synthetic.
 
 - **Governed tools only:** the agent gets every number from six Unity Catalog SQL functions. Arguments are bound parameters, so the model never writes SQL.
 - **One set of definitions:** RAG over the bank's glossary (Vector Search). The SQL functions, the Power BI measures and the agent all follow the same glossary.
@@ -68,7 +68,7 @@ Full scorecard with per-question notes: [`eval/results/scorecard.md`](eval/resul
 
 | Path | What |
 |---|---|
-| `generator/` | Synthetic CIB data with four planted stories, and the daily feed |
+| `generator/` | Synthetic banking data with four planted stories, and the daily feed |
 | `pipeline/` | Bronze → silver → gold notebooks, DQ, reconciliation, job definition, SQL tests |
 | `tools/` | The six governed Unity Catalog SQL functions and their tests |
 | `knowledge/`, `rag/` | Glossary, product one-pagers, management commentary, SOP; chunking and the Vector Search index |

@@ -3,7 +3,7 @@ doc_id: product_ecm
 doc_type: product
 title: Product One-Pager: Equity Capital Markets
 as_of: 2026-11-01
-owner: CIB Equity Capital Markets
+owner: Equity Capital Markets
 ---
 
 # Product One-Pager: Equity Capital Markets

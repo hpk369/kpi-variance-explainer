@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Northlake CIB Performance Insights · live demo</title>
-<meta name="description" content="Agentic GenAI on Databricks that explains why CIB KPIs moved: governed Unity Catalog SQL tools, RAG over business definitions, a number check on every figure, MLflow evaluation and a Power BI semantic model. Fictional bank, synthetic data.">
+<title>Northlake Insights Agent · live demo</title>
+<meta name="description" content="Agentic GenAI on Databricks that explains why KPIs moved: governed Unity Catalog SQL tools, RAG over business definitions, a number check on every figure, MLflow evaluation and a Power BI semantic model. Fictional bank, synthetic data.">
 <style>
   :root{--ink:#14202e;--muted:#5b6776;--line:#dde3ea;--bg:#f5f7fa;--card:#fff;--accent:#1f4e8c;--accent-soft:#e6eef8;--warn:#fff6dd;--warn-line:#ecd38a;--ok:#0f5c4d}
   *{box-sizing:border-box}
@@ -69,11 +69,11 @@
 <header>
   <div class="brand">
     <div class="mark">N</div>
-    <div><h1>Northlake CIB Performance Insights</h1><span>Databricks · Unity Catalog · Vector Search · MLflow · Power BI</span></div>
+    <div><h1>Northlake Insights Agent</h1><span>Databricks · Unity Catalog · Vector Search · MLflow · Power BI</span></div>
   </div>
   <nav>
-    <a href="https://github.com/hpk369/northlake-cib-insights-agent#readme">Documentation</a>
-    <a href="https://github.com/hpk369/northlake-cib-insights-agent">Code on GitHub</a>
+    <a href="https://github.com/hpk369/northlake-insights-agent#readme">Documentation</a>
+    <a href="https://github.com/hpk369/northlake-insights-agent">Code on GitHub</a>
     <a id="video-link" href="#" hidden>2-min video</a>
     <a href="https://deals.inkandinfra.com">Also see: Deal Pricing Agent</a>
   </nav>
@@ -111,7 +111,7 @@
     <div class="panel">
       <h2>How it works</h2>
       <ol class="steps">
-        <li><b>A daily pipeline</b> builds bronze → silver → gold Delta tables from synthetic CIB data, with data-quality rules and a GL reconciliation control.</li>
+        <li><b>A daily pipeline</b> builds bronze → silver → gold Delta tables from synthetic banking data, with data-quality rules and a GL reconciliation control.</li>
         <li><b>Six governed SQL functions</b> in Unity Catalog are the agent's only way to get a number. Arguments are bound parameters, so the model can't write SQL.</li>
         <li><b>RAG over the glossary</b> (Vector Search) supplies the definitions the answer uses: the same definitions the SQL and the Power BI measures follow.</li>
         <li><b>A number check</b> matches every figure in the draft to a tool result. A mismatch sends the draft back; after two retries the commentary is withheld and only the tool tables are shown.</li>
@@ -129,7 +129,7 @@
         <tr><td>Retrieval relevance (LLM judge)</td><td>≥ 85%</td><td class="r" data-metric="relevance">–</td></tr>
         <tr><td>Guardrails</td><td>2/2</td><td class="r" data-metric="guardrails">–</td></tr>
       </table>
-      <p style="margin-top:10px">15 questions, run in MLflow on Databricks. <a href="https://github.com/hpk369/northlake-cib-insights-agent/blob/main/eval/results/scorecard.md">Full scorecard</a></p>
+      <p style="margin-top:10px">15 questions, run in MLflow on Databricks. <a href="https://github.com/hpk369/northlake-insights-agent/blob/main/eval/results/scorecard.md">Full scorecard</a></p>
     </div>
   </section>
 
@@ -139,7 +139,7 @@
       <span class="hint">No sign-in needed</span>
     </div>
     <div class="view" id="view-agent" role="tabpanel">
-      <iframe id="agent-frame" title="Northlake CIB insights agent" data-src="https://hpk369-northlake-cib-insights.hf.space/?__theme=light" loading="lazy" allow="clipboard-write"></iframe>
+      <iframe id="agent-frame" title="Northlake insights agent" data-src="https://hpk369-northlake-cib-insights.hf.space/?__theme=light" loading="lazy" allow="clipboard-write"></iframe>
       <div class="empty" id="agent-empty" hidden>The live agent isn't connected yet.</div>
     </div>
   </section>
@@ -155,7 +155,7 @@
       <a id="dash-full" class="full" href="#" target="_blank" rel="noopener" hidden>Open full screen ↗</a>
     </div>
     <div class="dash-frame">
-      <iframe id="dash-frame" title="Northlake CIB executive dashboard (Power BI)" data-src="https://app.powerbi.com/view?r=eyJrIjoiMGRhOGNjZDUtYTc0OS00MDY2LWFhMDYtYjQyMzJhOTFmM2UxIiwidCI6IjA5Y2Q3OWMxLWY0ZmEtNDVhZS05YjM5LTVhMjg5N2ZhNmE0NCJ9" allowfullscreen></iframe>
+      <iframe id="dash-frame" title="Northlake executive dashboard (Power BI)" data-src="https://app.powerbi.com/view?r=eyJrIjoiMGRhOGNjZDUtYTc0OS00MDY2LWFhMDYtYjQyMzJhOTFmM2UxIiwidCI6IjA5Y2Q3OWMxLWY0ZmEtNDVhZS05YjM5LTVhMjg5N2ZhNmE0NCJ9" allowfullscreen></iframe>
       <div class="empty" id="dash-empty" hidden>The Power BI dashboard is being published. Check back shortly.</div>
     </div>
   </div>

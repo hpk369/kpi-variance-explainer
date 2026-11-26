@@ -3,7 +3,7 @@ doc_id: product_lending
 doc_type: product
 title: Product One-Pager: Lending
 as_of: 2026-11-01
-owner: CIB Lending Product Management
+owner: Lending Product Management
 ---
 
 # Product One-Pager: Lending

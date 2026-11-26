@@ -1,1 +1,1 @@
-"""Northlake CIB Performance Insights agent (synthetic data only)."""
+"""Northlake Insights Agent (synthetic data only)."""

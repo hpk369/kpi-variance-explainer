@@ -23,7 +23,7 @@ GOOD = """**Headline:** Industrials revenue was $8.8M (18.8%) below plan in 2026
 Industrials missed plan by $8.8M; M&A Advisory timing explains 85%.
 
 **Definitions used**
-- Revenue vs Plan: booked revenue minus plan (Source: CIB Business Definitions Glossary)
+- Revenue vs Plan: booked revenue minus plan (Source: Business Definitions Glossary)
 
 _Synthetic data · Northlake Bank (fictional). Data as of 2026-11-23._"""
 BAD = GOOD.replace("$7.5M", "$9.4M")

@@ -1,4 +1,4 @@
-"""Synthetic CIB data for Northlake Bank (fictional), with four planted stories.
+"""Synthetic banking data for Northlake Bank (fictional), with four planted stories.
 
 Run:   python generator/generate.py            → writes generator/out/*.parquet + expected_answers.json
 Check: python generator/checks.py

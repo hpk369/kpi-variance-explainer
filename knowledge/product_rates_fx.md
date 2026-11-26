@@ -3,7 +3,7 @@ doc_id: product_rates_fx
 doc_type: product
 title: Product One-Pager: Rates & FX Hedging
 as_of: 2026-11-01
-owner: CIB Global Markets Sales
+owner: Global Markets Sales
 ---
 
 # Product One-Pager: Rates & FX Hedging

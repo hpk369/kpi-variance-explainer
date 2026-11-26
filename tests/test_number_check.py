@@ -57,7 +57,7 @@ def test_planted_mismatches_are_caught():
 def test_aggregates_and_extra_texts_are_allowed():
     assert check("Average RAROC 7.5%.", TOOLS)["passed"]                     # mean of 6.06% and 8.94%
     assert not check("The hurdle is 12%.", TOOLS)["passed"]
-    assert check("The hurdle is 12%.", TOOLS, ["Hurdle rate: the CIB hurdle rate is 12%."])["passed"]
+    assert check("The hurdle is 12%.", TOOLS, ["Hurdle rate: the hurdle rate is 12%."])["passed"]
     assert 2.0 in allowed_values(TOOLS)                                       # row counts
 
 

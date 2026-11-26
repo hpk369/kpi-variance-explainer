@@ -1,4 +1,4 @@
-"""The CIB insights agent as a LangGraph graph.
+"""The insights agent as a LangGraph graph.
 
     guard ─► plan ⇄ tools ─► retrieve ─► draft ─► number_check ─► claim_check ─► answer
       │        │                            ▲          │                │

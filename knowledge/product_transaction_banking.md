@@ -3,7 +3,7 @@ doc_id: product_transaction_banking
 doc_type: product
 title: Product One-Pager: Transaction Banking
 as_of: 2026-11-01
-owner: CIB Transaction Banking
+owner: Transaction Banking
 ---
 
 # Product One-Pager: Transaction Banking
@@ -17,7 +17,7 @@ Cash management (operating accounts, payments, collections, liquidity sweeps) an
 - Deposit income: the margin earned on client operating balances, about 45% of Transaction Banking revenue.
 - Transaction and service fees on payments, collections, account services and trade instruments.
 - Balances move with client liquidity and the rate environment; fees move with payment volumes.
-- Revenue accrues every month and is the most stable line in CIB.
+- Revenue accrues every month and is the most stable line in the business.
 
 ## Capital intensity
 Low. Cash management uses almost no capital; trade finance uses some, on short tenors.

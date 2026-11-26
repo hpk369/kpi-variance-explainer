@@ -26,7 +26,7 @@
    "group": "story1",
    "question": "Why did Industrials revenue miss plan in Q3 2026?",
    "outcome": "answered",
-   "answer": "**Headline:** Industrials Q3\u202f2026 revenue missed plan by **$8.8\u202fM** (\u201119%).\n\n**Drivers**\n- **M&A Advisory** product:\u202f\u2011$7.5\u202fM,\u202f85% of the total gap  \n- **Meadowlark Fabrication** client:\u202f\u2011$4.6\u202fM,\u202f52% of the gap  \n- **Thornbury Components** client:\u202f\u2011$3.0\u202fM,\u202f34% of the gap  \n- **Lending** product:\u202f\u2011$1.3\u202fM,\u202f15% of the gap  \n- **Slipped deals**: two M&A Advisory mandates (fees $4.5\u202fM and $3\u202fM) closed 84\u202fdays late, after the quarter ended  \n\n**Executive paragraph**  \nThe shortfall is concentrated in the M&A Advisory line, which delivered no revenue versus a $7.5\u202fM plan, accounting for the majority of the miss. The two largest client gaps\u2014Meadowlark Fabrication and Thornbury Components\u2014reflect slipped M&A deals that closed well after the quarter, turning expected fees into timing variances. Lending contributed a modest under\u2011performance, while other products were essentially on target.\n\n**Definitions used**\n- **Revenue vs Plan**: How far booked revenue is above or below the approved plan; a negative variance is a miss (Source: CIB Business Definitions Glossary \u203a Revenue vs Plan).  \n- **Variance driver**: A product, client, etc., ranked by how much of the total revenue gap it explains; share of variance = driver variance \u00f7 total variance (Source: CIB Business Definitions Glossary \u203a Variance driver).  \n- **Slipped deal**: A deal expected to close in the period but closed after the period end; its fee is not counted in the original period\u2019s revenue (Source: CIB Business Definitions Glossary \u203a Slipped deal).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Industrials Q3\u202f2026 revenue missed plan by **$8.8\u202fM** (\u201119%).\n\n**Drivers**\n- **M&A Advisory** product:\u202f\u2011$7.5\u202fM,\u202f85% of the total gap  \n- **Meadowlark Fabrication** client:\u202f\u2011$4.6\u202fM,\u202f52% of the gap  \n- **Thornbury Components** client:\u202f\u2011$3.0\u202fM,\u202f34% of the gap  \n- **Lending** product:\u202f\u2011$1.3\u202fM,\u202f15% of the gap  \n- **Slipped deals**: two M&A Advisory mandates (fees $4.5\u202fM and $3\u202fM) closed 84\u202fdays late, after the quarter ended  \n\n**Executive paragraph**  \nThe shortfall is concentrated in the M&A Advisory line, which delivered no revenue versus a $7.5\u202fM plan, accounting for the majority of the miss. The two largest client gaps\u2014Meadowlark Fabrication and Thornbury Components\u2014reflect slipped M&A deals that closed well after the quarter, turning expected fees into timing variances. Lending contributed a modest under\u2011performance, while other products were essentially on target.\n\n**Definitions used**\n- **Revenue vs Plan**: How far booked revenue is above or below the approved plan; a negative variance is a miss (Source: Business Definitions Glossary \u203a Revenue vs Plan).  \n- **Variance driver**: A product, client, etc., ranked by how much of the total revenue gap it explains; share of variance = driver variance \u00f7 total variance (Source: Business Definitions Glossary \u203a Variance driver).  \n- **Slipped deal**: A deal expected to close in the period but closed after the period end; its fee is not counted in the original period\u2019s revenue (Source: Business Definitions Glossary \u203a Slipped deal).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 28218,
    "scores": {
     "number_match": {
@@ -59,7 +59,7 @@
    "work": {
     "question": "Why did Industrials revenue miss plan in Q3 2026?",
     "outcome": "answered",
-    "answer": "**Headline:** Industrials Q3\u202f2026 revenue missed plan by **$8.8\u202fM** (\u201119%).\n\n**Drivers**\n- **M&A Advisory** product:\u202f\u2011$7.5\u202fM,\u202f85% of the total gap  \n- **Meadowlark Fabrication** client:\u202f\u2011$4.6\u202fM,\u202f52% of the gap  \n- **Thornbury Components** client:\u202f\u2011$3.0\u202fM,\u202f34% of the gap  \n- **Lending** product:\u202f\u2011$1.3\u202fM,\u202f15% of the gap  \n- **Slipped deals**: two M&A Advisory mandates (fees $4.5\u202fM and $3\u202fM) closed 84\u202fdays late, after the quarter ended  \n\n**Executive paragraph**  \nThe shortfall is concentrated in the M&A Advisory line, which delivered no revenue versus a $7.5\u202fM plan, accounting for the majority of the miss. The two largest client gaps\u2014Meadowlark Fabrication and Thornbury Components\u2014reflect slipped M&A deals that closed well after the quarter, turning expected fees into timing variances. Lending contributed a modest under\u2011performance, while other products were essentially on target.\n\n**Definitions used**\n- **Revenue vs Plan**: How far booked revenue is above or below the approved plan; a negative variance is a miss (Source: CIB Business Definitions Glossary \u203a Revenue vs Plan).  \n- **Variance driver**: A product, client, etc., ranked by how much of the total revenue gap it explains; share of variance = driver variance \u00f7 total variance (Source: CIB Business Definitions Glossary \u203a Variance driver).  \n- **Slipped deal**: A deal expected to close in the period but closed after the period end; its fee is not counted in the original period\u2019s revenue (Source: CIB Business Definitions Glossary \u203a Slipped deal).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** Industrials Q3\u202f2026 revenue missed plan by **$8.8\u202fM** (\u201119%).\n\n**Drivers**\n- **M&A Advisory** product:\u202f\u2011$7.5\u202fM,\u202f85% of the total gap  \n- **Meadowlark Fabrication** client:\u202f\u2011$4.6\u202fM,\u202f52% of the gap  \n- **Thornbury Components** client:\u202f\u2011$3.0\u202fM,\u202f34% of the gap  \n- **Lending** product:\u202f\u2011$1.3\u202fM,\u202f15% of the gap  \n- **Slipped deals**: two M&A Advisory mandates (fees $4.5\u202fM and $3\u202fM) closed 84\u202fdays late, after the quarter ended  \n\n**Executive paragraph**  \nThe shortfall is concentrated in the M&A Advisory line, which delivered no revenue versus a $7.5\u202fM plan, accounting for the majority of the miss. The two largest client gaps\u2014Meadowlark Fabrication and Thornbury Components\u2014reflect slipped M&A deals that closed well after the quarter, turning expected fees into timing variances. Lending contributed a modest under\u2011performance, while other products were essentially on target.\n\n**Definitions used**\n- **Revenue vs Plan**: How far booked revenue is above or below the approved plan; a negative variance is a miss (Source: Business Definitions Glossary \u203a Revenue vs Plan).  \n- **Variance driver**: A product, client, etc., ranked by how much of the total revenue gap it explains; share of variance = driver variance \u00f7 total variance (Source: Business Definitions Glossary \u203a Variance driver).  \n- **Slipped deal**: A deal expected to close in the period but closed after the period end; its fee is not counted in the original period\u2019s revenue (Source: Business Definitions Glossary \u203a Slipped deal).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -376,19 +376,19 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Revenue vs Plan",
       "score": 0.6724044507433995
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Variance driver",
       "score": 0.7041818906304371
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Slipped deal",
       "score": 0.7240286752775077
@@ -771,21 +771,21 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Revenue vs Plan",
-       "text": "CIB Business Definitions Glossary\nSection: Revenue measures > Revenue vs Plan\n\n**Definition:** How far booked revenue is above or below the approved annual plan (budget) for the same period and scope. A negative variance is a miss. For a period that is still running (month to date or quarter to date), the plan is pro-rated by calendar day so that a partial month is compared with a partial plan.\n**Formula:** Variance = Revenue \u2212 Plan. Variance % = (Revenue \u2212 Plan) \u00f7 |Plan|.\n**Unit:** CAD and %.\n**Owner:** CIB Business Management.\n**Source:** `gold.fact_plan`; tools `get_kpi` (total) and `variance_drivers` (by product, client, banker, team, segment, industry or region)."
+       "text": "Business Definitions Glossary\nSection: Revenue measures > Revenue vs Plan\n\n**Definition:** How far booked revenue is above or below the approved annual plan (budget) for the same period and scope. A negative variance is a miss. For a period that is still running (month to date or quarter to date), the plan is pro-rated by calendar day so that a partial month is compared with a partial plan.\n**Formula:** Variance = Revenue \u2212 Plan. Variance % = (Revenue \u2212 Plan) \u00f7 |Plan|.\n**Unit:** CAD and %.\n**Owner:** Business Management.\n**Source:** `gold.fact_plan`; tools `get_kpi` (total) and `variance_drivers` (by product, client, banker, team, segment, industry or region)."
       },
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Variance driver",
-       "text": "CIB Business Definitions Glossary\nSection: Revenue measures > Variance driver\n\n**Definition:** A product, client, banker, team, segment, industry or region ranked by how much of the total revenue gap it explains. Share of variance tells the reader how concentrated the miss is: when one or two drivers explain most of the gap, commentary names them; when the gap is spread thinly, commentary says so.\n**Formula:** Driver share = driver variance \u00f7 total variance (0.85 means the driver explains 85% of the gap).\n**Unit:** CAD and %.\n**Owner:** CIB Business Management.\n**Source:** tool `variance_drivers`."
+       "text": "Business Definitions Glossary\nSection: Revenue measures > Variance driver\n\n**Definition:** A product, client, banker, team, segment, industry or region ranked by how much of the total revenue gap it explains. Share of variance tells the reader how concentrated the miss is: when one or two drivers explain most of the gap, commentary names them; when the gap is spread thinly, commentary says so.\n**Formula:** Driver share = driver variance \u00f7 total variance (0.85 means the driver explains 85% of the gap).\n**Unit:** CAD and %.\n**Owner:** Business Management.\n**Source:** tool `variance_drivers`."
       },
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Slipped deal",
-       "text": "CIB Business Definitions Glossary\nSection: Coverage and pipeline > Slipped deal\n\n**Definition:** A deal that was expected to close in a period but did not: it was still open after its expected close date, or it closed after the period ended. How we treat a slipped deal: its fee is not counted as revenue in the original period, because event fees are booked only at close; the deal stays in the weighted pipeline at its current stage; the revenue shortfall it causes is reported as a timing variance, not as a lost deal; and commentary names the deal, its fee and the new expected close date. A slipped deal becomes a lost deal only when the client cancels the mandate or awards it elsewhere.\n**Formula:** Slipped = expected close date in the period AND (still open after the expected close date OR actual close date after the period end).\n**Unit:** Count of deals and CAD of expected fees.\n**Owner:** Coverage, with CIB Business Management.\n**Source:** tool `pipeline_conversion(detail='slipped')`."
+       "text": "Business Definitions Glossary\nSection: Coverage and pipeline > Slipped deal\n\n**Definition:** A deal that was expected to close in a period but did not: it was still open after its expected close date, or it closed after the period ended. How we treat a slipped deal: its fee is not counted as revenue in the original period, because event fees are booked only at close; the deal stays in the weighted pipeline at its current stage; the revenue shortfall it causes is reported as a timing variance, not as a lost deal; and commentary names the deal, its fee and the new expected close date. A slipped deal becomes a lost deal only when the client cancels the mandate or awards it elsewhere.\n**Formula:** Slipped = expected close date in the period AND (still open after the expected close date OR actual close date after the period end).\n**Unit:** Count of deals and CAD of expected fees.\n**Owner:** Coverage, with Business Management.\n**Source:** tool `pipeline_conversion(detail='slipped')`."
       }
      ]
     },
@@ -797,7 +797,7 @@
    "group": "story1",
    "question": "Which Industrials deals slipped out of Q3 2026, and what fees did we expect from them?",
    "outcome": "answered",
-   "answer": "**Headline:** Two Industrials deals slipped Q3\u202f2026, with expected fees of $4.5M and $3.0M.\n\n**Drivers**\n- Meadowlark Fabrication \u2013 M&A Advisory \u2013 expected fee $4.5M (deal\u202fD\u201120458) \u2013 slipped 84\u202fdays after expected close.\n- Thornbury Components \u2013 M&A Advisory \u2013 expected fee $3.0M (deal\u202fD\u201120466) \u2013 slipped 84\u202fdays after expected close.\n\n**Executive paragraph**  \nIn Q3\u202f2026, two Industrials M&A Advisory engagements did not close as scheduled. Both were originally slated to close in August 2026 but closed in November, each 84\u202fdays late, moving the expected revenue of $7.5M out of the quarter. The deals are now recorded as won in the pipeline, with the timing variance reflected in Q3 results.\n\n**Definitions used**\n- Slipped deal: A deal that was expected to close in a period but did not; its fee is not counted as revenue in the original period because event fees are booked only at close. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Two Industrials deals slipped Q3\u202f2026, with expected fees of $4.5M and $3.0M.\n\n**Drivers**\n- Meadowlark Fabrication \u2013 M&A Advisory \u2013 expected fee $4.5M (deal\u202fD\u201120458) \u2013 slipped 84\u202fdays after expected close.\n- Thornbury Components \u2013 M&A Advisory \u2013 expected fee $3.0M (deal\u202fD\u201120466) \u2013 slipped 84\u202fdays after expected close.\n\n**Executive paragraph**  \nIn Q3\u202f2026, two Industrials M&A Advisory engagements did not close as scheduled. Both were originally slated to close in August 2026 but closed in November, each 84\u202fdays late, moving the expected revenue of $7.5M out of the quarter. The deals are now recorded as won in the pipeline, with the timing variance reflected in Q3 results.\n\n**Definitions used**\n- Slipped deal: A deal that was expected to close in a period but did not; its fee is not counted as revenue in the original period because event fees are booked only at close. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 11159,
    "scores": {
     "number_match": {
@@ -830,7 +830,7 @@
    "work": {
     "question": "Which Industrials deals slipped out of Q3 2026, and what fees did we expect from them?",
     "outcome": "answered",
-    "answer": "**Headline:** Two Industrials deals slipped Q3\u202f2026, with expected fees of $4.5M and $3.0M.\n\n**Drivers**\n- Meadowlark Fabrication \u2013 M&A Advisory \u2013 expected fee $4.5M (deal\u202fD\u201120458) \u2013 slipped 84\u202fdays after expected close.\n- Thornbury Components \u2013 M&A Advisory \u2013 expected fee $3.0M (deal\u202fD\u201120466) \u2013 slipped 84\u202fdays after expected close.\n\n**Executive paragraph**  \nIn Q3\u202f2026, two Industrials M&A Advisory engagements did not close as scheduled. Both were originally slated to close in August 2026 but closed in November, each 84\u202fdays late, moving the expected revenue of $7.5M out of the quarter. The deals are now recorded as won in the pipeline, with the timing variance reflected in Q3 results.\n\n**Definitions used**\n- Slipped deal: A deal that was expected to close in a period but did not; its fee is not counted as revenue in the original period because event fees are booked only at close. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** Two Industrials deals slipped Q3\u202f2026, with expected fees of $4.5M and $3.0M.\n\n**Drivers**\n- Meadowlark Fabrication \u2013 M&A Advisory \u2013 expected fee $4.5M (deal\u202fD\u201120458) \u2013 slipped 84\u202fdays after expected close.\n- Thornbury Components \u2013 M&A Advisory \u2013 expected fee $3.0M (deal\u202fD\u201120466) \u2013 slipped 84\u202fdays after expected close.\n\n**Executive paragraph**  \nIn Q3\u202f2026, two Industrials M&A Advisory engagements did not close as scheduled. Both were originally slated to close in August 2026 but closed in November, each 84\u202fdays late, moving the expected revenue of $7.5M out of the quarter. The deals are now recorded as won in the pipeline, with the timing variance reflected in Q3 results.\n\n**Definitions used**\n- Slipped deal: A deal that was expected to close in a period but did not; its fee is not counted as revenue in the original period because event fees are booked only at close. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -908,7 +908,7 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Slipped deal",
       "score": 0.724037838614988
@@ -1064,9 +1064,9 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Slipped deal",
-       "text": "CIB Business Definitions Glossary\nSection: Coverage and pipeline > Slipped deal\n\n**Definition:** A deal that was expected to close in a period but did not: it was still open after its expected close date, or it closed after the period ended. How we treat a slipped deal: its fee is not counted as revenue in the original period, because event fees are booked only at close; the deal stays in the weighted pipeline at its current stage; the revenue shortfall it causes is reported as a timing variance, not as a lost deal; and commentary names the deal, its fee and the new expected close date. A slipped deal becomes a lost deal only when the client cancels the mandate or awards it elsewhere.\n**Formula:** Slipped = expected close date in the period AND (still open after the expected close date OR actual close date after the period end).\n**Unit:** Count of deals and CAD of expected fees.\n**Owner:** Coverage, with CIB Business Management.\n**Source:** tool `pipeline_conversion(detail='slipped')`."
+       "text": "Business Definitions Glossary\nSection: Coverage and pipeline > Slipped deal\n\n**Definition:** A deal that was expected to close in a period but did not: it was still open after its expected close date, or it closed after the period ended. How we treat a slipped deal: its fee is not counted as revenue in the original period, because event fees are booked only at close; the deal stays in the weighted pipeline at its current stage; the revenue shortfall it causes is reported as a timing variance, not as a lost deal; and commentary names the deal, its fee and the new expected close date. A slipped deal becomes a lost deal only when the client cancels the mandate or awards it elsewhere.\n**Formula:** Slipped = expected close date in the period AND (still open after the expected close date OR actual close date after the period end).\n**Unit:** Count of deals and CAD of expected fees.\n**Owner:** Coverage, with Business Management.\n**Source:** tool `pipeline_conversion(detail='slipped')`."
       }
      ]
     },
@@ -1078,7 +1078,7 @@
    "group": "story1",
    "question": "How much of the Industrials Q3 2026 revenue miss came from M&A Advisory?",
    "outcome": "answered",
-   "answer": "**Headline:** M&A Advisory drove a $7.5\u202fM shortfall \u2013 about 85\u202f% of the Industrials Q3\u202f2026 revenue miss.\n\n**Drivers**\n- M&A Advisory: $7.5\u202fM delta, 85\u202f% of total variance.  \n- Lending: $1.3\u202fM delta, 15\u202f% of total variance.  \n- Total Industrials revenue miss: $8.8\u202fM versus plan.  \n\n**Executive paragraph**  \nThe Industrials segment missed its Q3\u202f2026 revenue target by $8.8\u202fM. The bulk of this gap came from M&A Advisory, which fell $7.5\u202fM short of the $7.5\u202fM budgeted amount, accounting for roughly 85\u202f% of the shortfall. Lending contributed the remaining $1.3\u202fM (about 15\u202f%). Other products were essentially on target.\n\n**Definitions used**\n- Revenue vs Plan: How far booked revenue is above or below the approved annual plan; a negative variance is a miss. (Source: CIB Business Definitions Glossary \u203a Revenue vs Plan)  \n- Variance driver: A product ranked by how much of the total revenue gap it explains; driver share = driver variance \u00f7 total variance. (Source: CIB Business Definitions Glossary \u203a Variance driver)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** M&A Advisory drove a $7.5\u202fM shortfall \u2013 about 85\u202f% of the Industrials Q3\u202f2026 revenue miss.\n\n**Drivers**\n- M&A Advisory: $7.5\u202fM delta, 85\u202f% of total variance.  \n- Lending: $1.3\u202fM delta, 15\u202f% of total variance.  \n- Total Industrials revenue miss: $8.8\u202fM versus plan.  \n\n**Executive paragraph**  \nThe Industrials segment missed its Q3\u202f2026 revenue target by $8.8\u202fM. The bulk of this gap came from M&A Advisory, which fell $7.5\u202fM short of the $7.5\u202fM budgeted amount, accounting for roughly 85\u202f% of the shortfall. Lending contributed the remaining $1.3\u202fM (about 15\u202f%). Other products were essentially on target.\n\n**Definitions used**\n- Revenue vs Plan: How far booked revenue is above or below the approved annual plan; a negative variance is a miss. (Source: Business Definitions Glossary \u203a Revenue vs Plan)  \n- Variance driver: A product ranked by how much of the total revenue gap it explains; driver share = driver variance \u00f7 total variance. (Source: Business Definitions Glossary \u203a Variance driver)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 13890,
    "scores": {
     "number_match": {
@@ -1111,7 +1111,7 @@
    "work": {
     "question": "How much of the Industrials Q3 2026 revenue miss came from M&A Advisory?",
     "outcome": "answered",
-    "answer": "**Headline:** M&A Advisory drove a $7.5\u202fM shortfall \u2013 about 85\u202f% of the Industrials Q3\u202f2026 revenue miss.\n\n**Drivers**\n- M&A Advisory: $7.5\u202fM delta, 85\u202f% of total variance.  \n- Lending: $1.3\u202fM delta, 15\u202f% of total variance.  \n- Total Industrials revenue miss: $8.8\u202fM versus plan.  \n\n**Executive paragraph**  \nThe Industrials segment missed its Q3\u202f2026 revenue target by $8.8\u202fM. The bulk of this gap came from M&A Advisory, which fell $7.5\u202fM short of the $7.5\u202fM budgeted amount, accounting for roughly 85\u202f% of the shortfall. Lending contributed the remaining $1.3\u202fM (about 15\u202f%). Other products were essentially on target.\n\n**Definitions used**\n- Revenue vs Plan: How far booked revenue is above or below the approved annual plan; a negative variance is a miss. (Source: CIB Business Definitions Glossary \u203a Revenue vs Plan)  \n- Variance driver: A product ranked by how much of the total revenue gap it explains; driver share = driver variance \u00f7 total variance. (Source: CIB Business Definitions Glossary \u203a Variance driver)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** M&A Advisory drove a $7.5\u202fM shortfall \u2013 about 85\u202f% of the Industrials Q3\u202f2026 revenue miss.\n\n**Drivers**\n- M&A Advisory: $7.5\u202fM delta, 85\u202f% of total variance.  \n- Lending: $1.3\u202fM delta, 15\u202f% of total variance.  \n- Total Industrials revenue miss: $8.8\u202fM versus plan.  \n\n**Executive paragraph**  \nThe Industrials segment missed its Q3\u202f2026 revenue target by $8.8\u202fM. The bulk of this gap came from M&A Advisory, which fell $7.5\u202fM short of the $7.5\u202fM budgeted amount, accounting for roughly 85\u202f% of the shortfall. Lending contributed the remaining $1.3\u202fM (about 15\u202f%). Other products were essentially on target.\n\n**Definitions used**\n- Revenue vs Plan: How far booked revenue is above or below the approved annual plan; a negative variance is a miss. (Source: Business Definitions Glossary \u203a Revenue vs Plan)  \n- Variance driver: A product ranked by how much of the total revenue gap it explains; driver share = driver variance \u00f7 total variance. (Source: Business Definitions Glossary \u203a Variance driver)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -1245,13 +1245,13 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Revenue vs Plan",
       "score": 0.6722756716235637
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Variance driver",
       "score": 0.7041818906304371
@@ -1431,15 +1431,15 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Revenue vs Plan",
-       "text": "CIB Business Definitions Glossary\nSection: Revenue measures > Revenue vs Plan\n\n**Definition:** How far booked revenue is above or below the approved annual plan (budget) for the same period and scope. A negative variance is a miss. For a period that is still running (month to date or quarter to date), the plan is pro-rated by calendar day so that a partial month is compared with a partial plan.\n**Formula:** Variance = Revenue \u2212 Plan. Variance % = (Revenue \u2212 Plan) \u00f7 |Plan|.\n**Unit:** CAD and %.\n**Owner:** CIB Business Management.\n**Source:** `gold.fact_plan`; tools `get_kpi` (total) and `variance_drivers` (by product, client, banker, team, segment, industry or region)."
+       "text": "Business Definitions Glossary\nSection: Revenue measures > Revenue vs Plan\n\n**Definition:** How far booked revenue is above or below the approved annual plan (budget) for the same period and scope. A negative variance is a miss. For a period that is still running (month to date or quarter to date), the plan is pro-rated by calendar day so that a partial month is compared with a partial plan.\n**Formula:** Variance = Revenue \u2212 Plan. Variance % = (Revenue \u2212 Plan) \u00f7 |Plan|.\n**Unit:** CAD and %.\n**Owner:** Business Management.\n**Source:** `gold.fact_plan`; tools `get_kpi` (total) and `variance_drivers` (by product, client, banker, team, segment, industry or region)."
       },
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Variance driver",
-       "text": "CIB Business Definitions Glossary\nSection: Revenue measures > Variance driver\n\n**Definition:** A product, client, banker, team, segment, industry or region ranked by how much of the total revenue gap it explains. Share of variance tells the reader how concentrated the miss is: when one or two drivers explain most of the gap, commentary names them; when the gap is spread thinly, commentary says so.\n**Formula:** Driver share = driver variance \u00f7 total variance (0.85 means the driver explains 85% of the gap).\n**Unit:** CAD and %.\n**Owner:** CIB Business Management.\n**Source:** tool `variance_drivers`."
+       "text": "Business Definitions Glossary\nSection: Revenue measures > Variance driver\n\n**Definition:** A product, client, banker, team, segment, industry or region ranked by how much of the total revenue gap it explains. Share of variance tells the reader how concentrated the miss is: when one or two drivers explain most of the gap, commentary names them; when the gap is spread thinly, commentary says so.\n**Formula:** Driver share = driver variance \u00f7 total variance (0.85 means the driver explains 85% of the gap).\n**Unit:** CAD and %.\n**Owner:** Business Management.\n**Source:** tool `variance_drivers`."
       }
      ]
     },
@@ -1451,7 +1451,7 @@
    "group": "story2",
    "question": "Which Mid-Market clients were below the RAROC hurdle over the 12 months to September 2026, and what cross-sell whitespace do they have?",
    "outcome": "answered",
-   "answer": "**Headline:** 18 Mid\u2011Market clients were below the 15% RAROC hurdle, each missing five fee\u2011product opportunities.  \n\n**Drivers**\n- 18 clients in the Mid\u2011Market segment.  \n- RAROC range 6.1%\u202f\u2013\u202f9.0%.  \n- All 18 hold only **Lending**.  \n- Missing products for every client: Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n\n**Executive paragraph**  \nAcross the trailing 12\u2011month window to September\u202f2026, every Mid\u2011Market relationship posted a RAROC well under the 15% hurdle, with the lowest at 6.1% (Northwind Midstream) and the highest at 9.0% (Riverbend Engineering). Each client currently only has a lending relationship, leaving five high\u2011margin fee products un\u2011served, representing clear cross\u2011sell whitespace for coverage teams.  \n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12 months as a percentage. (Source: *CIB Business Definitions Glossary \u203a RAROC*)  \n- Hurdle rate: The minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15%. (Source: *CIB Business Definitions Glossary \u203a Hurdle rate*)  \n- Cross\u2011sell whitespace: Products a below\u2011hurdle client does not yet hold; for lending\u2011only clients this includes fee\u2011based products. (Source: *CIB Business Definitions Glossary \u203a Cross\u2011sell whitespace*)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** 18 Mid\u2011Market clients were below the 15% RAROC hurdle, each missing five fee\u2011product opportunities.  \n\n**Drivers**\n- 18 clients in the Mid\u2011Market segment.  \n- RAROC range 6.1%\u202f\u2013\u202f9.0%.  \n- All 18 hold only **Lending**.  \n- Missing products for every client: Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n\n**Executive paragraph**  \nAcross the trailing 12\u2011month window to September\u202f2026, every Mid\u2011Market relationship posted a RAROC well under the 15% hurdle, with the lowest at 6.1% (Northwind Midstream) and the highest at 9.0% (Riverbend Engineering). Each client currently only has a lending relationship, leaving five high\u2011margin fee products un\u2011served, representing clear cross\u2011sell whitespace for coverage teams.  \n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12 months as a percentage. (Source: *Business Definitions Glossary \u203a RAROC*)  \n- Hurdle rate: The minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15%. (Source: *Business Definitions Glossary \u203a Hurdle rate*)  \n- Cross\u2011sell whitespace: Products a below\u2011hurdle client does not yet hold; for lending\u2011only clients this includes fee\u2011based products. (Source: *Business Definitions Glossary \u203a Cross\u2011sell whitespace*)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 18633,
    "scores": {
     "number_match": {
@@ -1484,7 +1484,7 @@
    "work": {
     "question": "Which Mid-Market clients were below the RAROC hurdle over the 12 months to September 2026, and what cross-sell whitespace do they have?",
     "outcome": "answered",
-    "answer": "**Headline:** 18 Mid\u2011Market clients were below the 15% RAROC hurdle, each missing five fee\u2011product opportunities.  \n\n**Drivers**\n- 18 clients in the Mid\u2011Market segment.  \n- RAROC range 6.1%\u202f\u2013\u202f9.0%.  \n- All 18 hold only **Lending**.  \n- Missing products for every client: Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n\n**Executive paragraph**  \nAcross the trailing 12\u2011month window to September\u202f2026, every Mid\u2011Market relationship posted a RAROC well under the 15% hurdle, with the lowest at 6.1% (Northwind Midstream) and the highest at 9.0% (Riverbend Engineering). Each client currently only has a lending relationship, leaving five high\u2011margin fee products un\u2011served, representing clear cross\u2011sell whitespace for coverage teams.  \n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12 months as a percentage. (Source: *CIB Business Definitions Glossary \u203a RAROC*)  \n- Hurdle rate: The minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15%. (Source: *CIB Business Definitions Glossary \u203a Hurdle rate*)  \n- Cross\u2011sell whitespace: Products a below\u2011hurdle client does not yet hold; for lending\u2011only clients this includes fee\u2011based products. (Source: *CIB Business Definitions Glossary \u203a Cross\u2011sell whitespace*)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** 18 Mid\u2011Market clients were below the 15% RAROC hurdle, each missing five fee\u2011product opportunities.  \n\n**Drivers**\n- 18 clients in the Mid\u2011Market segment.  \n- RAROC range 6.1%\u202f\u2013\u202f9.0%.  \n- All 18 hold only **Lending**.  \n- Missing products for every client: Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n\n**Executive paragraph**  \nAcross the trailing 12\u2011month window to September\u202f2026, every Mid\u2011Market relationship posted a RAROC well under the 15% hurdle, with the lowest at 6.1% (Northwind Midstream) and the highest at 9.0% (Riverbend Engineering). Each client currently only has a lending relationship, leaving five high\u2011margin fee products un\u2011served, representing clear cross\u2011sell whitespace for coverage teams.  \n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12 months as a percentage. (Source: *Business Definitions Glossary \u203a RAROC*)  \n- Hurdle rate: The minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15%. (Source: *Business Definitions Glossary \u203a Hurdle rate*)  \n- Cross\u2011sell whitespace: Products a below\u2011hurdle client does not yet hold; for lending\u2011only clients this includes fee\u2011based products. (Source: *Business Definitions Glossary \u203a Cross\u2011sell whitespace*)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -1603,19 +1603,19 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "RAROC",
       "score": 0.593863267046991
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Hurdle rate",
       "score": 0.6956815515086308
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Cross-sell whitespace",
       "score": 0.6982793577392569
@@ -2081,21 +2081,21 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "RAROC",
-       "text": "CIB Business Definitions Glossary\nSection: Profitability and capital > RAROC\n\n**Definition:** Risk-adjusted return on capital: what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. It is measured over the trailing 12 complete months so that lumpy event fees do not swing it from month to month.\n**Formula:** RAROC = (Revenue \u2212 Cost allocation \u2212 Expected loss) \u00d7 (1 \u2212 Tax rate) \u00f7 Average allocated capital. Tax rate = 25%. Trailing 12 complete months.\n**Unit:** % (stored as a decimal).\n**Owner:** CIB Finance with Risk Analytics (capital and expected loss).\n**Source:** `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`."
+       "text": "Business Definitions Glossary\nSection: Profitability and capital > RAROC\n\n**Definition:** Risk-adjusted return on capital: what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. It is measured over the trailing 12 complete months so that lumpy event fees do not swing it from month to month.\n**Formula:** RAROC = (Revenue \u2212 Cost allocation \u2212 Expected loss) \u00d7 (1 \u2212 Tax rate) \u00f7 Average allocated capital. Tax rate = 25%. Trailing 12 complete months.\n**Unit:** % (stored as a decimal).\n**Owner:** Finance with Risk Analytics (capital and expected loss).\n**Source:** `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`."
       },
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Hurdle rate",
-       "text": "CIB Business Definitions Glossary\nSection: Profitability and capital > Hurdle rate\n\n**Definition:** The minimum RAROC that Northlake Bank requires a client relationship to earn over time. The CIB hurdle rate is 15%. A relationship below the hurdle is not automatically exited: it is reviewed for pricing, capital usage and cross-sell first.\n**Formula:** Gap to hurdle = RAROC \u2212 15%. A negative gap means the client is below the hurdle.\n**Unit:** %.\n**Owner:** CIB Finance; approved annually by the CIB Executive Committee.\n**Source:** `gold.config` key `hurdle_rate`; `config/constants.yaml`."
+       "text": "Business Definitions Glossary\nSection: Profitability and capital > Hurdle rate\n\n**Definition:** The minimum RAROC that Northlake Bank requires a client relationship to earn over time. The hurdle rate is 15%. A relationship below the hurdle is not automatically exited: it is reviewed for pricing, capital usage and cross-sell first.\n**Formula:** Gap to hurdle = RAROC \u2212 15%. A negative gap means the client is below the hurdle.\n**Unit:** %.\n**Owner:** Finance; approved annually by the Executive Committee.\n**Source:** `gold.config` key `hurdle_rate`; `config/constants.yaml`."
       },
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Cross-sell whitespace",
-       "text": "CIB Business Definitions Glossary\nSection: Profitability and capital > Cross-sell whitespace\n\n**Definition:** For a client below the hurdle, the products it does not yet hold with Northlake. A lending-only client is the classic case: the loan uses a lot of capital, and fee products such as Transaction Banking, Rates & FX Hedging or capital-markets mandates are what lift returns above the hurdle.\n**Formula:** Missing products = all six CIB products \u2212 products with revenue in the trailing 12 months.\n**Unit:** List of products per client.\n**Owner:** Coverage, with product partners.\n**Source:** tool `cross_sell_whitespace`."
+       "text": "Business Definitions Glossary\nSection: Profitability and capital > Cross-sell whitespace\n\n**Definition:** For a client below the hurdle, the products it does not yet hold with Northlake. A lending-only client is the classic case: the loan uses a lot of capital, and fee products such as Transaction Banking, Rates & FX Hedging or capital-markets mandates are what lift returns above the hurdle.\n**Formula:** Missing products = all six products \u2212 products with revenue in the trailing 12 months.\n**Unit:** List of products per client.\n**Owner:** Coverage, with product partners.\n**Source:** tool `cross_sell_whitespace`."
       }
      ]
     },
@@ -2107,7 +2107,7 @@
    "group": "story2",
    "question": "How many Mid-Market clients held only Lending and were below the hurdle over the 12 months to September 2026?",
    "outcome": "answered",
-   "answer": "**Headline:** 18 Mid\u2011Market clients held only Lending and were below the hurdle over the 12\u2011month window to Sep\u202f2026.  \n\n**Drivers**\n- Lowest RAROC: 6\u202f% \u2013 Northwind Midstream.  \n- Highest RAROC: 9\u202f% \u2013 Riverbend Engineering.  \n- Largest 12\u2011month revenue: $1.3\u202fM \u2013 Eastgate Fabrication.  \n- Largest average allocated capital: $5.2\u202fM \u2013 Eastgate Fabrication.  \n\n**Executive paragraph**  \nAll 18 Mid\u2011Market relationships that only have a Lending product fall short of the 15\u202f% hurdle, with RAROC ranging from 6\u202f% to 9\u202f%. The portfolio\u2019s revenue spans $0.8\u202fM\u2011$1.3\u202fM per client, while capital allocation peaks at $5.2\u202fM. This uniform shortfall highlights a clear cross\u2011sell opportunity across the segment.  \n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital measured over the trailing 12\u202fmonths (Source: CIB Business Definitions Glossary \u203a RAROC).  \n- Hurdle rate: Minimum RAROC required (15\u202f%); gap to hurdle = RAROC\u202f\u2212\u202f15\u202f% (Source: CIB Business Definitions Glossary \u203a Hurdle rate).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** 18 Mid\u2011Market clients held only Lending and were below the hurdle over the 12\u2011month window to Sep\u202f2026.  \n\n**Drivers**\n- Lowest RAROC: 6\u202f% \u2013 Northwind Midstream.  \n- Highest RAROC: 9\u202f% \u2013 Riverbend Engineering.  \n- Largest 12\u2011month revenue: $1.3\u202fM \u2013 Eastgate Fabrication.  \n- Largest average allocated capital: $5.2\u202fM \u2013 Eastgate Fabrication.  \n\n**Executive paragraph**  \nAll 18 Mid\u2011Market relationships that only have a Lending product fall short of the 15\u202f% hurdle, with RAROC ranging from 6\u202f% to 9\u202f%. The portfolio\u2019s revenue spans $0.8\u202fM\u2011$1.3\u202fM per client, while capital allocation peaks at $5.2\u202fM. This uniform shortfall highlights a clear cross\u2011sell opportunity across the segment.  \n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital measured over the trailing 12\u202fmonths (Source: Business Definitions Glossary \u203a RAROC).  \n- Hurdle rate: Minimum RAROC required (15\u202f%); gap to hurdle = RAROC\u202f\u2212\u202f15\u202f% (Source: Business Definitions Glossary \u203a Hurdle rate).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 19431,
    "scores": {
     "number_match": {
@@ -2140,7 +2140,7 @@
    "work": {
     "question": "How many Mid-Market clients held only Lending and were below the hurdle over the 12 months to September 2026?",
     "outcome": "answered",
-    "answer": "**Headline:** 18 Mid\u2011Market clients held only Lending and were below the hurdle over the 12\u2011month window to Sep\u202f2026.  \n\n**Drivers**\n- Lowest RAROC: 6\u202f% \u2013 Northwind Midstream.  \n- Highest RAROC: 9\u202f% \u2013 Riverbend Engineering.  \n- Largest 12\u2011month revenue: $1.3\u202fM \u2013 Eastgate Fabrication.  \n- Largest average allocated capital: $5.2\u202fM \u2013 Eastgate Fabrication.  \n\n**Executive paragraph**  \nAll 18 Mid\u2011Market relationships that only have a Lending product fall short of the 15\u202f% hurdle, with RAROC ranging from 6\u202f% to 9\u202f%. The portfolio\u2019s revenue spans $0.8\u202fM\u2011$1.3\u202fM per client, while capital allocation peaks at $5.2\u202fM. This uniform shortfall highlights a clear cross\u2011sell opportunity across the segment.  \n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital measured over the trailing 12\u202fmonths (Source: CIB Business Definitions Glossary \u203a RAROC).  \n- Hurdle rate: Minimum RAROC required (15\u202f%); gap to hurdle = RAROC\u202f\u2212\u202f15\u202f% (Source: CIB Business Definitions Glossary \u203a Hurdle rate).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** 18 Mid\u2011Market clients held only Lending and were below the hurdle over the 12\u2011month window to Sep\u202f2026.  \n\n**Drivers**\n- Lowest RAROC: 6\u202f% \u2013 Northwind Midstream.  \n- Highest RAROC: 9\u202f% \u2013 Riverbend Engineering.  \n- Largest 12\u2011month revenue: $1.3\u202fM \u2013 Eastgate Fabrication.  \n- Largest average allocated capital: $5.2\u202fM \u2013 Eastgate Fabrication.  \n\n**Executive paragraph**  \nAll 18 Mid\u2011Market relationships that only have a Lending product fall short of the 15\u202f% hurdle, with RAROC ranging from 6\u202f% to 9\u202f%. The portfolio\u2019s revenue spans $0.8\u202fM\u2011$1.3\u202fM per client, while capital allocation peaks at $5.2\u202fM. This uniform shortfall highlights a clear cross\u2011sell opportunity across the segment.  \n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital measured over the trailing 12\u202fmonths (Source: Business Definitions Glossary \u203a RAROC).  \n- Hurdle rate: Minimum RAROC required (15\u202f%); gap to hurdle = RAROC\u202f\u2212\u202f15\u202f% (Source: Business Definitions Glossary \u203a Hurdle rate).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -2259,13 +2259,13 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "RAROC",
       "score": 0.5939589185361742
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Hurdle rate",
       "score": 0.6956815515086308
@@ -2731,15 +2731,15 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "RAROC",
-       "text": "CIB Business Definitions Glossary\nSection: Profitability and capital > RAROC\n\n**Definition:** Risk-adjusted return on capital: what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. It is measured over the trailing 12 complete months so that lumpy event fees do not swing it from month to month.\n**Formula:** RAROC = (Revenue \u2212 Cost allocation \u2212 Expected loss) \u00d7 (1 \u2212 Tax rate) \u00f7 Average allocated capital. Tax rate = 25%. Trailing 12 complete months.\n**Unit:** % (stored as a decimal).\n**Owner:** CIB Finance with Risk Analytics (capital and expected loss).\n**Source:** `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`."
+       "text": "Business Definitions Glossary\nSection: Profitability and capital > RAROC\n\n**Definition:** Risk-adjusted return on capital: what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. It is measured over the trailing 12 complete months so that lumpy event fees do not swing it from month to month.\n**Formula:** RAROC = (Revenue \u2212 Cost allocation \u2212 Expected loss) \u00d7 (1 \u2212 Tax rate) \u00f7 Average allocated capital. Tax rate = 25%. Trailing 12 complete months.\n**Unit:** % (stored as a decimal).\n**Owner:** Finance with Risk Analytics (capital and expected loss).\n**Source:** `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`."
       },
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Hurdle rate",
-       "text": "CIB Business Definitions Glossary\nSection: Profitability and capital > Hurdle rate\n\n**Definition:** The minimum RAROC that Northlake Bank requires a client relationship to earn over time. The CIB hurdle rate is 15%. A relationship below the hurdle is not automatically exited: it is reviewed for pricing, capital usage and cross-sell first.\n**Formula:** Gap to hurdle = RAROC \u2212 15%. A negative gap means the client is below the hurdle.\n**Unit:** %.\n**Owner:** CIB Finance; approved annually by the CIB Executive Committee.\n**Source:** `gold.config` key `hurdle_rate`; `config/constants.yaml`."
+       "text": "Business Definitions Glossary\nSection: Profitability and capital > Hurdle rate\n\n**Definition:** The minimum RAROC that Northlake Bank requires a client relationship to earn over time. The hurdle rate is 15%. A relationship below the hurdle is not automatically exited: it is reviewed for pricing, capital usage and cross-sell first.\n**Formula:** Gap to hurdle = RAROC \u2212 15%. A negative gap means the client is below the hurdle.\n**Unit:** %.\n**Owner:** Finance; approved annually by the Executive Committee.\n**Source:** `gold.config` key `hurdle_rate`; `config/constants.yaml`."
       }
      ]
     },
@@ -2751,7 +2751,7 @@
    "group": "story2",
    "question": "What was the average RAROC of the Mid-Market clients below the hurdle over the 12 months to September 2026?",
    "outcome": "answered",
-   "answer": "**Headline:** Average RAROC for Mid\u2011Market clients below the hurdle (12\u2011month trailing) is **7.4%**.\n\n**Drivers**\n- **18** Mid\u2011Market clients are listed, all with a negative gap to the 15% hurdle.  \n- Highest RAROC: **9.0%** (Riverbend Engineering).  \n- Lowest RAROC: **6.1%** (Northwind Midstream).  \n- All 18 hold only **Lending** and are missing five additional product lines.  \n\n**Executive paragraph**  \nAcross the trailing twelve months to September\u202f2026, the 18 Mid\u2011Market relationships that fall short of the 15% hurdle generate an average risk\u2011adjusted return of 7.4%. The spread runs from 6.1% to 9.0%, reflecting a uniformly narrow product footprint limited to Lending and a consistent shortfall against the bank\u2019s profitability benchmark.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12\u202fmonths as a percentage of allocated capital (Source: *CIB Business Definitions Glossary \u203a RAROC*).  \n- Hurdle rate: Minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15% (Source: *CIB Business Definitions Glossary \u203a Hurdle rate*).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Average RAROC for Mid\u2011Market clients below the hurdle (12\u2011month trailing) is **7.4%**.\n\n**Drivers**\n- **18** Mid\u2011Market clients are listed, all with a negative gap to the 15% hurdle.  \n- Highest RAROC: **9.0%** (Riverbend Engineering).  \n- Lowest RAROC: **6.1%** (Northwind Midstream).  \n- All 18 hold only **Lending** and are missing five additional product lines.  \n\n**Executive paragraph**  \nAcross the trailing twelve months to September\u202f2026, the 18 Mid\u2011Market relationships that fall short of the 15% hurdle generate an average risk\u2011adjusted return of 7.4%. The spread runs from 6.1% to 9.0%, reflecting a uniformly narrow product footprint limited to Lending and a consistent shortfall against the bank\u2019s profitability benchmark.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12\u202fmonths as a percentage of allocated capital (Source: *Business Definitions Glossary \u203a RAROC*).  \n- Hurdle rate: Minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15% (Source: *Business Definitions Glossary \u203a Hurdle rate*).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 23515,
    "scores": {
     "number_match": {
@@ -2781,7 +2781,7 @@
    "work": {
     "question": "What was the average RAROC of the Mid-Market clients below the hurdle over the 12 months to September 2026?",
     "outcome": "answered",
-    "answer": "**Headline:** Average RAROC for Mid\u2011Market clients below the hurdle (12\u2011month trailing) is **7.4%**.\n\n**Drivers**\n- **18** Mid\u2011Market clients are listed, all with a negative gap to the 15% hurdle.  \n- Highest RAROC: **9.0%** (Riverbend Engineering).  \n- Lowest RAROC: **6.1%** (Northwind Midstream).  \n- All 18 hold only **Lending** and are missing five additional product lines.  \n\n**Executive paragraph**  \nAcross the trailing twelve months to September\u202f2026, the 18 Mid\u2011Market relationships that fall short of the 15% hurdle generate an average risk\u2011adjusted return of 7.4%. The spread runs from 6.1% to 9.0%, reflecting a uniformly narrow product footprint limited to Lending and a consistent shortfall against the bank\u2019s profitability benchmark.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12\u202fmonths as a percentage of allocated capital (Source: *CIB Business Definitions Glossary \u203a RAROC*).  \n- Hurdle rate: Minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15% (Source: *CIB Business Definitions Glossary \u203a Hurdle rate*).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** Average RAROC for Mid\u2011Market clients below the hurdle (12\u2011month trailing) is **7.4%**.\n\n**Drivers**\n- **18** Mid\u2011Market clients are listed, all with a negative gap to the 15% hurdle.  \n- Highest RAROC: **9.0%** (Riverbend Engineering).  \n- Lowest RAROC: **6.1%** (Northwind Midstream).  \n- All 18 hold only **Lending** and are missing five additional product lines.  \n\n**Executive paragraph**  \nAcross the trailing twelve months to September\u202f2026, the 18 Mid\u2011Market relationships that fall short of the 15% hurdle generate an average risk\u2011adjusted return of 7.4%. The spread runs from 6.1% to 9.0%, reflecting a uniformly narrow product footprint limited to Lending and a consistent shortfall against the bank\u2019s profitability benchmark.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12\u202fmonths as a percentage of allocated capital (Source: *Business Definitions Glossary \u203a RAROC*).  \n- Hurdle rate: Minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15% (Source: *Business Definitions Glossary \u203a Hurdle rate*).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -2900,13 +2900,13 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "RAROC",
       "score": 0.5938693593768565
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Hurdle rate",
       "score": 0.695690519657383
@@ -3372,15 +3372,15 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "RAROC",
-       "text": "CIB Business Definitions Glossary\nSection: Profitability and capital > RAROC\n\n**Definition:** Risk-adjusted return on capital: what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. It is measured over the trailing 12 complete months so that lumpy event fees do not swing it from month to month.\n**Formula:** RAROC = (Revenue \u2212 Cost allocation \u2212 Expected loss) \u00d7 (1 \u2212 Tax rate) \u00f7 Average allocated capital. Tax rate = 25%. Trailing 12 complete months.\n**Unit:** % (stored as a decimal).\n**Owner:** CIB Finance with Risk Analytics (capital and expected loss).\n**Source:** `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`."
+       "text": "Business Definitions Glossary\nSection: Profitability and capital > RAROC\n\n**Definition:** Risk-adjusted return on capital: what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. It is measured over the trailing 12 complete months so that lumpy event fees do not swing it from month to month.\n**Formula:** RAROC = (Revenue \u2212 Cost allocation \u2212 Expected loss) \u00d7 (1 \u2212 Tax rate) \u00f7 Average allocated capital. Tax rate = 25%. Trailing 12 complete months.\n**Unit:** % (stored as a decimal).\n**Owner:** Finance with Risk Analytics (capital and expected loss).\n**Source:** `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`."
       },
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Hurdle rate",
-       "text": "CIB Business Definitions Glossary\nSection: Profitability and capital > Hurdle rate\n\n**Definition:** The minimum RAROC that Northlake Bank requires a client relationship to earn over time. The CIB hurdle rate is 15%. A relationship below the hurdle is not automatically exited: it is reviewed for pricing, capital usage and cross-sell first.\n**Formula:** Gap to hurdle = RAROC \u2212 15%. A negative gap means the client is below the hurdle.\n**Unit:** %.\n**Owner:** CIB Finance; approved annually by the CIB Executive Committee.\n**Source:** `gold.config` key `hurdle_rate`; `config/constants.yaml`."
+       "text": "Business Definitions Glossary\nSection: Profitability and capital > Hurdle rate\n\n**Definition:** The minimum RAROC that Northlake Bank requires a client relationship to earn over time. The hurdle rate is 15%. A relationship below the hurdle is not automatically exited: it is reviewed for pricing, capital usage and cross-sell first.\n**Formula:** Gap to hurdle = RAROC \u2212 15%. A negative gap means the client is below the hurdle.\n**Unit:** %.\n**Owner:** Finance; approved annually by the Executive Committee.\n**Source:** `gold.config` key `hurdle_rate`; `config/constants.yaml`."
       }
      ]
     },
@@ -3392,7 +3392,7 @@
    "group": "story3",
    "question": "Which coverage teams are over capacity?",
    "outcome": "answered",
-   "answer": "**Headline:** Coverage East\u202f2 is over capacity (14.0\u202fclients per banker vs\u202ftarget\u202f10).\n\n**Drivers**\n- Clients per banker:\u202f14.0 (exceeds target\u202f10) \u2013\u202fover_capacity\u202ftrue.  \n- Capacity status:\u202fover target.  \n- Win rate fell from\u202f44%\u202f(2025\u2011Q4) to\u202f25%\u202f(2026\u2011Q3).  \n\n**Executive paragraph**  \nCoverage East\u202f2 is the only team exceeding its client\u2011per\u2011banker target, carrying 14\u202fclients per banker against a goal of 10. This over\u2011capacity status coincides with a declining win rate, dropping from 44\u202f% to 25\u202f% over the four quarters, suggesting the higher workload may be impacting deal success.\n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team\u2019s target; a team above its target is over capacity (Source: CIB Business Definitions Glossary \u203a Coverage capacity).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Coverage East\u202f2 is over capacity (14.0\u202fclients per banker vs\u202ftarget\u202f10).\n\n**Drivers**\n- Clients per banker:\u202f14.0 (exceeds target\u202f10) \u2013\u202fover_capacity\u202ftrue.  \n- Capacity status:\u202fover target.  \n- Win rate fell from\u202f44%\u202f(2025\u2011Q4) to\u202f25%\u202f(2026\u2011Q3).  \n\n**Executive paragraph**  \nCoverage East\u202f2 is the only team exceeding its client\u2011per\u2011banker target, carrying 14\u202fclients per banker against a goal of 10. This over\u2011capacity status coincides with a declining win rate, dropping from 44\u202f% to 25\u202f% over the four quarters, suggesting the higher workload may be impacting deal success.\n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team\u2019s target; a team above its target is over capacity (Source: Business Definitions Glossary \u203a Coverage capacity).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 14876,
    "scores": {
     "number_match": {
@@ -3425,7 +3425,7 @@
    "work": {
     "question": "Which coverage teams are over capacity?",
     "outcome": "answered",
-    "answer": "**Headline:** Coverage East\u202f2 is over capacity (14.0\u202fclients per banker vs\u202ftarget\u202f10).\n\n**Drivers**\n- Clients per banker:\u202f14.0 (exceeds target\u202f10) \u2013\u202fover_capacity\u202ftrue.  \n- Capacity status:\u202fover target.  \n- Win rate fell from\u202f44%\u202f(2025\u2011Q4) to\u202f25%\u202f(2026\u2011Q3).  \n\n**Executive paragraph**  \nCoverage East\u202f2 is the only team exceeding its client\u2011per\u2011banker target, carrying 14\u202fclients per banker against a goal of 10. This over\u2011capacity status coincides with a declining win rate, dropping from 44\u202f% to 25\u202f% over the four quarters, suggesting the higher workload may be impacting deal success.\n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team\u2019s target; a team above its target is over capacity (Source: CIB Business Definitions Glossary \u203a Coverage capacity).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** Coverage East\u202f2 is over capacity (14.0\u202fclients per banker vs\u202ftarget\u202f10).\n\n**Drivers**\n- Clients per banker:\u202f14.0 (exceeds target\u202f10) \u2013\u202fover_capacity\u202ftrue.  \n- Capacity status:\u202fover target.  \n- Win rate fell from\u202f44%\u202f(2025\u2011Q4) to\u202f25%\u202f(2026\u2011Q3).  \n\n**Executive paragraph**  \nCoverage East\u202f2 is the only team exceeding its client\u2011per\u2011banker target, carrying 14\u202fclients per banker against a goal of 10. This over\u2011capacity status coincides with a declining win rate, dropping from 44\u202f% to 25\u202f% over the four quarters, suggesting the higher workload may be impacting deal success.\n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team\u2019s target; a team above its target is over capacity (Source: Business Definitions Glossary \u203a Coverage capacity).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -3529,7 +3529,7 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Coverage capacity",
       "score": 0.6758685548393357
@@ -4026,9 +4026,9 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Coverage capacity",
-       "text": "CIB Business Definitions Glossary\nSection: Coverage and pipeline > Coverage capacity\n\n**Definition:** How many client relationships each coverage banker carries compared with the team's target. A team above its target is over capacity: bankers have less time per client, which usually shows up first in a falling win rate. Team targets are: Coverage East 1: 8, Coverage East 2: 10, Coverage West: 8, Coverage US: 8, Coverage FI & Sponsors: 12 clients per banker.\n**Formula:** Clients per banker = clients owned by the team \u00f7 bankers in the team. Over capacity when clients per banker > target.\n**Unit:** Clients per banker.\n**Owner:** Coverage COO office.\n**Source:** `gold.dim_banker`, `gold.dim_client`; tool `coverage_capacity`."
+       "text": "Business Definitions Glossary\nSection: Coverage and pipeline > Coverage capacity\n\n**Definition:** How many client relationships each coverage banker carries compared with the team's target. A team above its target is over capacity: bankers have less time per client, which usually shows up first in a falling win rate. Team targets are: Coverage East 1: 8, Coverage East 2: 10, Coverage West: 8, Coverage US: 8, Coverage FI & Sponsors: 12 clients per banker.\n**Formula:** Clients per banker = clients owned by the team \u00f7 bankers in the team. Over capacity when clients per banker > target.\n**Unit:** Clients per banker.\n**Owner:** Coverage COO office.\n**Source:** `gold.dim_banker`, `gold.dim_client`; tool `coverage_capacity`."
       }
      ]
     },
@@ -4040,7 +4040,7 @@
    "group": "story3",
    "question": "How has Coverage East 2's win rate trended over the last four quarters?",
    "outcome": "answered",
-   "answer": "**Headline:** Coverage East\u202f2\u2019s win rate fell each quarter, from\u202f44% in\u202f2025\u2011Q4 to\u202f25% in\u202f2026\u2011Q3.  \n\n**Drivers**\n- 2025\u2011Q4 win rate\u202f44% (7 wins of 16 deals)  \n- 2026\u2011Q1 win rate\u202f40% (6 wins of 15 deals)  \n- 2026\u2011Q2 win rate\u202f30% (6 wins of 20 deals)  \n- 2026\u2011Q3 win rate\u202f25% (4 wins of 16 deals)  \n- Trend flagged as \u201cfalling every quarter\u201d in the totals row  \n\n**Executive paragraph**  \nCoverage East\u202f2\u2019s win rate declined steadily over the last four quarters, moving from 44% to 25% while the team\u2019s headcount (5 bankers) and client count (70) stayed constant. The downward trend is confirmed by the \u201cfalling every quarter\u201d indicator in the totals.  \n\n**Definitions used**\n- Win rate: The share of decided deals that Northlake won; calculated as deals won \u00f7 (deals won\u202f+\u202fdeals lost) for deals closed in the period. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Coverage East\u202f2\u2019s win rate fell each quarter, from\u202f44% in\u202f2025\u2011Q4 to\u202f25% in\u202f2026\u2011Q3.  \n\n**Drivers**\n- 2025\u2011Q4 win rate\u202f44% (7 wins of 16 deals)  \n- 2026\u2011Q1 win rate\u202f40% (6 wins of 15 deals)  \n- 2026\u2011Q2 win rate\u202f30% (6 wins of 20 deals)  \n- 2026\u2011Q3 win rate\u202f25% (4 wins of 16 deals)  \n- Trend flagged as \u201cfalling every quarter\u201d in the totals row  \n\n**Executive paragraph**  \nCoverage East\u202f2\u2019s win rate declined steadily over the last four quarters, moving from 44% to 25% while the team\u2019s headcount (5 bankers) and client count (70) stayed constant. The downward trend is confirmed by the \u201cfalling every quarter\u201d indicator in the totals.  \n\n**Definitions used**\n- Win rate: The share of decided deals that Northlake won; calculated as deals won \u00f7 (deals won\u202f+\u202fdeals lost) for deals closed in the period. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 21238,
    "scores": {
     "number_match": {
@@ -4073,7 +4073,7 @@
    "work": {
     "question": "How has Coverage East 2's win rate trended over the last four quarters?",
     "outcome": "answered",
-    "answer": "**Headline:** Coverage East\u202f2\u2019s win rate fell each quarter, from\u202f44% in\u202f2025\u2011Q4 to\u202f25% in\u202f2026\u2011Q3.  \n\n**Drivers**\n- 2025\u2011Q4 win rate\u202f44% (7 wins of 16 deals)  \n- 2026\u2011Q1 win rate\u202f40% (6 wins of 15 deals)  \n- 2026\u2011Q2 win rate\u202f30% (6 wins of 20 deals)  \n- 2026\u2011Q3 win rate\u202f25% (4 wins of 16 deals)  \n- Trend flagged as \u201cfalling every quarter\u201d in the totals row  \n\n**Executive paragraph**  \nCoverage East\u202f2\u2019s win rate declined steadily over the last four quarters, moving from 44% to 25% while the team\u2019s headcount (5 bankers) and client count (70) stayed constant. The downward trend is confirmed by the \u201cfalling every quarter\u201d indicator in the totals.  \n\n**Definitions used**\n- Win rate: The share of decided deals that Northlake won; calculated as deals won \u00f7 (deals won\u202f+\u202fdeals lost) for deals closed in the period. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** Coverage East\u202f2\u2019s win rate fell each quarter, from\u202f44% in\u202f2025\u2011Q4 to\u202f25% in\u202f2026\u2011Q3.  \n\n**Drivers**\n- 2025\u2011Q4 win rate\u202f44% (7 wins of 16 deals)  \n- 2026\u2011Q1 win rate\u202f40% (6 wins of 15 deals)  \n- 2026\u2011Q2 win rate\u202f30% (6 wins of 20 deals)  \n- 2026\u2011Q3 win rate\u202f25% (4 wins of 16 deals)  \n- Trend flagged as \u201cfalling every quarter\u201d in the totals row  \n\n**Executive paragraph**  \nCoverage East\u202f2\u2019s win rate declined steadily over the last four quarters, moving from 44% to 25% while the team\u2019s headcount (5 bankers) and client count (70) stayed constant. The downward trend is confirmed by the \u201cfalling every quarter\u201d indicator in the totals.  \n\n**Definitions used**\n- Win rate: The share of decided deals that Northlake won; calculated as deals won \u00f7 (deals won\u202f+\u202fdeals lost) for deals closed in the period. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -4160,7 +4160,7 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Win rate",
       "score": 0.6081600357307296
@@ -4360,9 +4360,9 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Win rate",
-       "text": "CIB Business Definitions Glossary\nSection: Coverage and pipeline > Win rate\n\n**Definition:** The share of decided deals that Northlake won. Only deals that closed in the period count; open deals are excluded until they are won or lost.\n**Formula:** Win rate = deals won \u00f7 (deals won + deals lost), for deals closed in the period.\n**Unit:** %.\n**Owner:** Coverage COO office.\n**Source:** `gold.fact_pipeline`; tools `get_kpi(metric='win_rate')`, `coverage_capacity` (by quarter) and `pipeline_conversion`."
+       "text": "Business Definitions Glossary\nSection: Coverage and pipeline > Win rate\n\n**Definition:** The share of decided deals that Northlake won. Only deals that closed in the period count; open deals are excluded until they are won or lost.\n**Formula:** Win rate = deals won \u00f7 (deals won + deals lost), for deals closed in the period.\n**Unit:** %.\n**Owner:** Coverage COO office.\n**Source:** `gold.fact_pipeline`; tools `get_kpi(metric='win_rate')`, `coverage_capacity` (by quarter) and `pipeline_conversion`."
       }
      ]
     },
@@ -4374,7 +4374,7 @@
    "group": "story3",
    "question": "How many clients and bankers does Coverage East 2 have, against its capacity target?",
    "outcome": "answered",
-   "answer": "**Headline:** Coverage\u202fEast\u202f2 has 5 bankers and 70 clients, which is 14\u202fclients per banker versus its target of 10\u202fclients per banker (over capacity).  \n\n**Drivers**\n- Bankers: 5 (2026\u2011Q3)  \n- Clients: 70 (2026\u2011Q3)  \n- Clients per banker: 14\u202f(>\u202ftarget)  \n- Capacity target: 10\u202fclients per banker (over target status)  \n\n**Executive paragraph**  \nCoverage\u202fEast\u202f2 is operating with five bankers serving seventy client relationships, yielding a ratio of fourteen clients per banker. This exceeds the team\u2019s capacity target of ten clients per banker, placing the team in an \u201cover target\u201d status. The excess load aligns with the observed falling win\u2011rate trend across quarters.  \n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team's target; a team above its target is over capacity (Source: CIB Business Definitions Glossary).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Coverage\u202fEast\u202f2 has 5 bankers and 70 clients, which is 14\u202fclients per banker versus its target of 10\u202fclients per banker (over capacity).  \n\n**Drivers**\n- Bankers: 5 (2026\u2011Q3)  \n- Clients: 70 (2026\u2011Q3)  \n- Clients per banker: 14\u202f(>\u202ftarget)  \n- Capacity target: 10\u202fclients per banker (over target status)  \n\n**Executive paragraph**  \nCoverage\u202fEast\u202f2 is operating with five bankers serving seventy client relationships, yielding a ratio of fourteen clients per banker. This exceeds the team\u2019s capacity target of ten clients per banker, placing the team in an \u201cover target\u201d status. The excess load aligns with the observed falling win\u2011rate trend across quarters.  \n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team's target; a team above its target is over capacity (Source: Business Definitions Glossary).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 9725,
    "scores": {
     "number_match": {
@@ -4396,7 +4396,7 @@
     "guardrail": null,
     "groundedness": {
      "value": true,
-     "rationale": "Every figure, capacity status, and trend description in the answer is explicitly confirmed by the provided tool results and the CIB Business Definitions Glossary."
+     "rationale": "Every figure, capacity status, and trend description in the answer is explicitly confirmed by the provided tool results and the Business Definitions Glossary."
     },
     "retrieval_relevance": {
      "value": 1.0,
@@ -4407,7 +4407,7 @@
    "work": {
     "question": "How many clients and bankers does Coverage East 2 have, against its capacity target?",
     "outcome": "answered",
-    "answer": "**Headline:** Coverage\u202fEast\u202f2 has 5 bankers and 70 clients, which is 14\u202fclients per banker versus its target of 10\u202fclients per banker (over capacity).  \n\n**Drivers**\n- Bankers: 5 (2026\u2011Q3)  \n- Clients: 70 (2026\u2011Q3)  \n- Clients per banker: 14\u202f(>\u202ftarget)  \n- Capacity target: 10\u202fclients per banker (over target status)  \n\n**Executive paragraph**  \nCoverage\u202fEast\u202f2 is operating with five bankers serving seventy client relationships, yielding a ratio of fourteen clients per banker. This exceeds the team\u2019s capacity target of ten clients per banker, placing the team in an \u201cover target\u201d status. The excess load aligns with the observed falling win\u2011rate trend across quarters.  \n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team's target; a team above its target is over capacity (Source: CIB Business Definitions Glossary).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** Coverage\u202fEast\u202f2 has 5 bankers and 70 clients, which is 14\u202fclients per banker versus its target of 10\u202fclients per banker (over capacity).  \n\n**Drivers**\n- Bankers: 5 (2026\u2011Q3)  \n- Clients: 70 (2026\u2011Q3)  \n- Clients per banker: 14\u202f(>\u202ftarget)  \n- Capacity target: 10\u202fclients per banker (over target status)  \n\n**Executive paragraph**  \nCoverage\u202fEast\u202f2 is operating with five bankers serving seventy client relationships, yielding a ratio of fourteen clients per banker. This exceeds the team\u2019s capacity target of ten clients per banker, placing the team in an \u201cover target\u201d status. The excess load aligns with the observed falling win\u2011rate trend across quarters.  \n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team's target; a team above its target is over capacity (Source: Business Definitions Glossary).\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -4493,7 +4493,7 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Coverage capacity",
       "score": 0.6758685548393357
@@ -4660,9 +4660,9 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Coverage capacity",
-       "text": "CIB Business Definitions Glossary\nSection: Coverage and pipeline > Coverage capacity\n\n**Definition:** How many client relationships each coverage banker carries compared with the team's target. A team above its target is over capacity: bankers have less time per client, which usually shows up first in a falling win rate. Team targets are: Coverage East 1: 8, Coverage East 2: 10, Coverage West: 8, Coverage US: 8, Coverage FI & Sponsors: 12 clients per banker.\n**Formula:** Clients per banker = clients owned by the team \u00f7 bankers in the team. Over capacity when clients per banker > target.\n**Unit:** Clients per banker.\n**Owner:** Coverage COO office.\n**Source:** `gold.dim_banker`, `gold.dim_client`; tool `coverage_capacity`."
+       "text": "Business Definitions Glossary\nSection: Coverage and pipeline > Coverage capacity\n\n**Definition:** How many client relationships each coverage banker carries compared with the team's target. A team above its target is over capacity: bankers have less time per client, which usually shows up first in a falling win rate. Team targets are: Coverage East 1: 8, Coverage East 2: 10, Coverage West: 8, Coverage US: 8, Coverage FI & Sponsors: 12 clients per banker.\n**Formula:** Clients per banker = clients owned by the team \u00f7 bankers in the team. Over capacity when clients per banker > target.\n**Unit:** Clients per banker.\n**Owner:** Coverage COO office.\n**Source:** `gold.dim_banker`, `gold.dim_client`; tool `coverage_capacity`."
       }
      ]
     },
@@ -4674,7 +4674,7 @@
    "group": "story4",
    "question": "Are there any reconciliation breaks, and what is the process for handling them?",
    "outcome": "answered",
-   "answer": "**Headline:** One reconciliation break detected for Transaction Banking in June\u202f2026.\n\n**Drivers**\n- Product: Transaction Banking (P06) \u2013 month\u202f2026\u201106.  \n- GL control total: $12.4M (rounded from 12,383,456.19).  \n- Booked revenue: $11.2M (rounded from 11,183,456.19).  \n- Delta: $1.2M (rounded from 1,200,000.0) exceeds the $1K tolerance.  \n\n**Executive paragraph**\nThe data\u2011quality check shows a $1.2\u202fM positive delta for Transaction Banking in June\u202f2026, indicating a missing booking. Because the delta exceeds $1\u202fM, the break is classified as Severity\u202f1. It must be escalated to the Head of CIB Finance within two business days, with any unresolved issue after two additional month\u2011ends placed on the CFO office watch list. Unexplained breaks are further escalated after ten business days per the SOP.\n\n**Definitions used**\n- Reconciliation break: A product and month where booked revenue does not agree with the GL control total by more than the $1,000 tolerance; positive delta usually means a missing booking. (Source: CIB Business Definitions Glossary)  \n- Severity\u202f1: A reconciliation break of $1\u202fM or more, or any break open at a second month\u2011end. (Source: SOP: Data\u2011Quality (DQ) and Reconciliation Breaks)  \n- Escalation (Severity\u202f1): Head of CIB Finance within two business days; if still open after two further month\u2011ends, escalated to CFO office watch list. (Source: SOP: Data\u2011Quality (DQ) and Reconciliation Breaks)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** One reconciliation break detected for Transaction Banking in June\u202f2026.\n\n**Drivers**\n- Product: Transaction Banking (P06) \u2013 month\u202f2026\u201106.  \n- GL control total: $12.4M (rounded from 12,383,456.19).  \n- Booked revenue: $11.2M (rounded from 11,183,456.19).  \n- Delta: $1.2M (rounded from 1,200,000.0) exceeds the $1K tolerance.  \n\n**Executive paragraph**\nThe data\u2011quality check shows a $1.2\u202fM positive delta for Transaction Banking in June\u202f2026, indicating a missing booking. Because the delta exceeds $1\u202fM, the break is classified as Severity\u202f1. It must be escalated to the Head of Finance within two business days, with any unresolved issue after two additional month\u2011ends placed on the CFO office watch list. Unexplained breaks are further escalated after ten business days per the SOP.\n\n**Definitions used**\n- Reconciliation break: A product and month where booked revenue does not agree with the GL control total by more than the $1,000 tolerance; positive delta usually means a missing booking. (Source: Business Definitions Glossary)  \n- Severity\u202f1: A reconciliation break of $1\u202fM or more, or any break open at a second month\u2011end. (Source: SOP: Data\u2011Quality (DQ) and Reconciliation Breaks)  \n- Escalation (Severity\u202f1): Head of Finance within two business days; if still open after two further month\u2011ends, escalated to CFO office watch list. (Source: SOP: Data\u2011Quality (DQ) and Reconciliation Breaks)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 15991,
    "scores": {
     "number_match": {
@@ -4707,7 +4707,7 @@
    "work": {
     "question": "Are there any reconciliation breaks, and what is the process for handling them?",
     "outcome": "answered",
-    "answer": "**Headline:** One reconciliation break detected for Transaction Banking in June\u202f2026.\n\n**Drivers**\n- Product: Transaction Banking (P06) \u2013 month\u202f2026\u201106.  \n- GL control total: $12.4M (rounded from 12,383,456.19).  \n- Booked revenue: $11.2M (rounded from 11,183,456.19).  \n- Delta: $1.2M (rounded from 1,200,000.0) exceeds the $1K tolerance.  \n\n**Executive paragraph**\nThe data\u2011quality check shows a $1.2\u202fM positive delta for Transaction Banking in June\u202f2026, indicating a missing booking. Because the delta exceeds $1\u202fM, the break is classified as Severity\u202f1. It must be escalated to the Head of CIB Finance within two business days, with any unresolved issue after two additional month\u2011ends placed on the CFO office watch list. Unexplained breaks are further escalated after ten business days per the SOP.\n\n**Definitions used**\n- Reconciliation break: A product and month where booked revenue does not agree with the GL control total by more than the $1,000 tolerance; positive delta usually means a missing booking. (Source: CIB Business Definitions Glossary)  \n- Severity\u202f1: A reconciliation break of $1\u202fM or more, or any break open at a second month\u2011end. (Source: SOP: Data\u2011Quality (DQ) and Reconciliation Breaks)  \n- Escalation (Severity\u202f1): Head of CIB Finance within two business days; if still open after two further month\u2011ends, escalated to CFO office watch list. (Source: SOP: Data\u2011Quality (DQ) and Reconciliation Breaks)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** One reconciliation break detected for Transaction Banking in June\u202f2026.\n\n**Drivers**\n- Product: Transaction Banking (P06) \u2013 month\u202f2026\u201106.  \n- GL control total: $12.4M (rounded from 12,383,456.19).  \n- Booked revenue: $11.2M (rounded from 11,183,456.19).  \n- Delta: $1.2M (rounded from 1,200,000.0) exceeds the $1K tolerance.  \n\n**Executive paragraph**\nThe data\u2011quality check shows a $1.2\u202fM positive delta for Transaction Banking in June\u202f2026, indicating a missing booking. Because the delta exceeds $1\u202fM, the break is classified as Severity\u202f1. It must be escalated to the Head of Finance within two business days, with any unresolved issue after two additional month\u2011ends placed on the CFO office watch list. Unexplained breaks are further escalated after ten business days per the SOP.\n\n**Definitions used**\n- Reconciliation break: A product and month where booked revenue does not agree with the GL control total by more than the $1,000 tolerance; positive delta usually means a missing booking. (Source: Business Definitions Glossary)  \n- Severity\u202f1: A reconciliation break of $1\u202fM or more, or any break open at a second month\u2011end. (Source: SOP: Data\u2011Quality (DQ) and Reconciliation Breaks)  \n- Escalation (Severity\u202f1): Head of Finance within two business days; if still open after two further month\u2011ends, escalated to CFO office watch list. (Source: SOP: Data\u2011Quality (DQ) and Reconciliation Breaks)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [
      {
@@ -4740,7 +4740,7 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Reconciliation break",
       "score": 0.5779861801865996
@@ -4835,15 +4835,15 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Reconciliation break",
-       "text": "CIB Business Definitions Glossary\nSection: Controls > Reconciliation break\n\n**Definition:** A product and month where booked revenue does not agree with the general ledger (GL) control total by more than the $1,000 tolerance. A positive difference (GL higher than booked revenue) usually means a booking is missing; a negative one usually means a booking is duplicated or misposted. Breaks are handled under the Data-Quality and Reconciliation Break SOP.\n**Formula:** Delta = GL control total \u2212 booked revenue. Break when |Delta| > $1,000.\n**Unit:** CAD.\n**Owner:** CIB Finance (Product Control).\n**Source:** `gold.recon_control`; tool `recon_breaks`."
+       "text": "Business Definitions Glossary\nSection: Controls > Reconciliation break\n\n**Definition:** A product and month where booked revenue does not agree with the general ledger (GL) control total by more than the $1,000 tolerance. A positive difference (GL higher than booked revenue) usually means a booking is missing; a negative one usually means a booking is duplicated or misposted. Breaks are handled under the Data-Quality and Reconciliation Break SOP.\n**Formula:** Delta = GL control total \u2212 booked revenue. Break when |Delta| > $1,000.\n**Unit:** CAD.\n**Owner:** Finance (Product Control).\n**Source:** `gold.recon_control`; tool `recon_breaks`."
       },
       {
        "doc_id": "sop_dq_breaks",
        "title": "SOP: Data-Quality (DQ) and Reconciliation Breaks",
        "section": "Escalation",
-       "text": "SOP: Data-Quality (DQ) and Reconciliation Breaks\nSection: Escalation\n\n- Severity 1: Head of CIB Finance within two business days. A Severity 1 break still open after two further month-ends goes on the CFO office watch list.\n- Severity 2: Product Control manager within five business days.\n- Severity 3: handled in the weekly data-quality review.\n- Any reconciliation or DQ break that cannot be explained within ten business days is escalated one level, whatever its size."
+       "text": "SOP: Data-Quality (DQ) and Reconciliation Breaks\nSection: Escalation\n\n- Severity 1: Head of Finance within two business days. A Severity 1 break still open after two further month-ends goes on the CFO office watch list.\n- Severity 2: Product Control manager within five business days.\n- Severity 3: handled in the weekly data-quality review.\n- Any reconciliation or DQ break that cannot be explained within ten business days is escalated one level, whatever its size."
       },
       {
        "doc_id": "sop_dq_breaks",
@@ -4861,7 +4861,7 @@
    "group": "definitions",
    "question": "What is RAROC?",
    "outcome": "answered",
-   "answer": "**Headline:** Risk\u2011adjusted return on capital (RAROC) is the return a client or portfolio earns after costs, expected credit losses and tax for each dollar of capital the bank allocates.\n\n**Drivers**\n- Definition: what a client or portfolio earns after costs, expected credit losses and tax for each dollar of capital allocated.  \n- Formula: (Revenue\u202f\u2212\u202fCost allocation\u202f\u2212\u202fExpected loss)\u202f\u00d7\u202f(1\u202f\u2212\u202fTax rate) \u00f7 Average allocated capital.  \n- Unit: % (stored as a decimal).  \n- Owner: CIB Finance with Risk Analytics (capital and expected loss).  \n- Source: `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`.\n\n**Executive paragraph**  \nRAROC calculates profitability by adjusting revenue for cost allocation, expected loss and tax, then dividing by the average capital allocated, using data from the trailing twelve complete months.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital \u2013 what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Risk\u2011adjusted return on capital (RAROC) is the return a client or portfolio earns after costs, expected credit losses and tax for each dollar of capital the bank allocates.\n\n**Drivers**\n- Definition: what a client or portfolio earns after costs, expected credit losses and tax for each dollar of capital allocated.  \n- Formula: (Revenue\u202f\u2212\u202fCost allocation\u202f\u2212\u202fExpected loss)\u202f\u00d7\u202f(1\u202f\u2212\u202fTax rate) \u00f7 Average allocated capital.  \n- Unit: % (stored as a decimal).  \n- Owner: Finance with Risk Analytics (capital and expected loss).  \n- Source: `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`.\n\n**Executive paragraph**  \nRAROC calculates profitability by adjusting revenue for cost allocation, expected loss and tax, then dividing by the average capital allocated, using data from the trailing twelve complete months.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital \u2013 what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 11130,
    "scores": {
     "number_match": null,
@@ -4877,7 +4877,7 @@
     "guardrail": null,
     "groundedness": {
      "value": true,
-     "rationale": "Every factual claim regarding the definition, formula, unit, owner, data sources, and time period in the answer is explicitly found in the provided CIB Business Definitions Glossary evidence."
+     "rationale": "Every factual claim regarding the definition, formula, unit, owner, data sources, and time period in the answer is explicitly found in the provided Business Definitions Glossary evidence."
     },
     "retrieval_relevance": {
      "value": 1.0,
@@ -4888,12 +4888,12 @@
    "work": {
     "question": "What is RAROC?",
     "outcome": "answered",
-    "answer": "**Headline:** Risk\u2011adjusted return on capital (RAROC) is the return a client or portfolio earns after costs, expected credit losses and tax for each dollar of capital the bank allocates.\n\n**Drivers**\n- Definition: what a client or portfolio earns after costs, expected credit losses and tax for each dollar of capital allocated.  \n- Formula: (Revenue\u202f\u2212\u202fCost allocation\u202f\u2212\u202fExpected loss)\u202f\u00d7\u202f(1\u202f\u2212\u202fTax rate) \u00f7 Average allocated capital.  \n- Unit: % (stored as a decimal).  \n- Owner: CIB Finance with Risk Analytics (capital and expected loss).  \n- Source: `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`.\n\n**Executive paragraph**  \nRAROC calculates profitability by adjusting revenue for cost allocation, expected loss and tax, then dividing by the average capital allocated, using data from the trailing twelve complete months.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital \u2013 what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** Risk\u2011adjusted return on capital (RAROC) is the return a client or portfolio earns after costs, expected credit losses and tax for each dollar of capital the bank allocates.\n\n**Drivers**\n- Definition: what a client or portfolio earns after costs, expected credit losses and tax for each dollar of capital allocated.  \n- Formula: (Revenue\u202f\u2212\u202fCost allocation\u202f\u2212\u202fExpected loss)\u202f\u00d7\u202f(1\u202f\u2212\u202fTax rate) \u00f7 Average allocated capital.  \n- Unit: % (stored as a decimal).  \n- Owner: Finance with Risk Analytics (capital and expected loss).  \n- Source: `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`.\n\n**Executive paragraph**  \nRAROC calculates profitability by adjusting revenue for cost allocation, expected loss and tax, then dividing by the average capital allocated, using data from the trailing twelve complete months.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital \u2013 what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "RAROC",
       "score": 0.6264192705900185
@@ -4983,9 +4983,9 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "RAROC",
-       "text": "CIB Business Definitions Glossary\nSection: Profitability and capital > RAROC\n\n**Definition:** Risk-adjusted return on capital: what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. It is measured over the trailing 12 complete months so that lumpy event fees do not swing it from month to month.\n**Formula:** RAROC = (Revenue \u2212 Cost allocation \u2212 Expected loss) \u00d7 (1 \u2212 Tax rate) \u00f7 Average allocated capital. Tax rate = 25%. Trailing 12 complete months.\n**Unit:** % (stored as a decimal).\n**Owner:** CIB Finance with Risk Analytics (capital and expected loss).\n**Source:** `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`."
+       "text": "Business Definitions Glossary\nSection: Profitability and capital > RAROC\n\n**Definition:** Risk-adjusted return on capital: what a client or portfolio earns after costs, expected credit losses and tax, for each dollar of capital the bank allocates to it. It is measured over the trailing 12 complete months so that lumpy event fees do not swing it from month to month.\n**Formula:** RAROC = (Revenue \u2212 Cost allocation \u2212 Expected loss) \u00d7 (1 \u2212 Tax rate) \u00f7 Average allocated capital. Tax rate = 25%. Trailing 12 complete months.\n**Unit:** % (stored as a decimal).\n**Owner:** Finance with Risk Analytics (capital and expected loss).\n**Source:** `gold.fact_capital`, `gold.fact_revenue`; tools `get_kpi(metric='raroc')` and `cross_sell_whitespace`."
       }
      ]
     },
@@ -4997,7 +4997,7 @@
    "group": "definitions",
    "question": "How is weighted pipeline defined?",
    "outcome": "answered",
-   "answer": "**Headline:** Weighted pipeline is the probability\u2011weighted value of open deals at a point in time.\n\n**Drivers**\n- Expected fee of each open deal multiplied by its stage probability.  \n- Stage probabilities: Origination\u202f10%, Pitch\u202f25%, Mandate\u202f60%, Execution\u202f85%.  \n- Only deals that are open at period end are included; won and lost deals are excluded.  \n- Result expressed in CAD.  \n- Calculated by the Coverage COO office using `gold.fact_pipeline` (tool `get_kpi`).\n\n**Executive paragraph**\nWeighted pipeline aggregates the expected fees of all open deals, applying a probability factor based on each deal\u2019s current stage. This provides a single CAD figure that reflects the likely revenue from the pipeline, excluding any deals already won or lost.\n\n**Definitions used**\n- Weighted pipeline: The probability\u2011weighted value of open deals at a point in time, calculated as \u03a3 (expected fee\u202f\u00d7\u202fstage probability) over deals open at the period end. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Weighted pipeline is the probability\u2011weighted value of open deals at a point in time.\n\n**Drivers**\n- Expected fee of each open deal multiplied by its stage probability.  \n- Stage probabilities: Origination\u202f10%, Pitch\u202f25%, Mandate\u202f60%, Execution\u202f85%.  \n- Only deals that are open at period end are included; won and lost deals are excluded.  \n- Result expressed in CAD.  \n- Calculated by the Coverage COO office using `gold.fact_pipeline` (tool `get_kpi`).\n\n**Executive paragraph**\nWeighted pipeline aggregates the expected fees of all open deals, applying a probability factor based on each deal\u2019s current stage. This provides a single CAD figure that reflects the likely revenue from the pipeline, excluding any deals already won or lost.\n\n**Definitions used**\n- Weighted pipeline: The probability\u2011weighted value of open deals at a point in time, calculated as \u03a3 (expected fee\u202f\u00d7\u202fstage probability) over deals open at the period end. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 5491,
    "scores": {
     "number_match": {
@@ -5013,7 +5013,7 @@
     "guardrail": null,
     "groundedness": {
      "value": true,
-     "rationale": "All factual claims, figures, definitions, and source details in the answer are directly supported by the provided CIB Business Definitions Glossary evidence."
+     "rationale": "All factual claims, figures, definitions, and source details in the answer are directly supported by the provided Business Definitions Glossary evidence."
     },
     "retrieval_relevance": {
      "value": 1.0,
@@ -5024,12 +5024,12 @@
    "work": {
     "question": "How is weighted pipeline defined?",
     "outcome": "answered",
-    "answer": "**Headline:** Weighted pipeline is the probability\u2011weighted value of open deals at a point in time.\n\n**Drivers**\n- Expected fee of each open deal multiplied by its stage probability.  \n- Stage probabilities: Origination\u202f10%, Pitch\u202f25%, Mandate\u202f60%, Execution\u202f85%.  \n- Only deals that are open at period end are included; won and lost deals are excluded.  \n- Result expressed in CAD.  \n- Calculated by the Coverage COO office using `gold.fact_pipeline` (tool `get_kpi`).\n\n**Executive paragraph**\nWeighted pipeline aggregates the expected fees of all open deals, applying a probability factor based on each deal\u2019s current stage. This provides a single CAD figure that reflects the likely revenue from the pipeline, excluding any deals already won or lost.\n\n**Definitions used**\n- Weighted pipeline: The probability\u2011weighted value of open deals at a point in time, calculated as \u03a3 (expected fee\u202f\u00d7\u202fstage probability) over deals open at the period end. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** Weighted pipeline is the probability\u2011weighted value of open deals at a point in time.\n\n**Drivers**\n- Expected fee of each open deal multiplied by its stage probability.  \n- Stage probabilities: Origination\u202f10%, Pitch\u202f25%, Mandate\u202f60%, Execution\u202f85%.  \n- Only deals that are open at period end are included; won and lost deals are excluded.  \n- Result expressed in CAD.  \n- Calculated by the Coverage COO office using `gold.fact_pipeline` (tool `get_kpi`).\n\n**Executive paragraph**\nWeighted pipeline aggregates the expected fees of all open deals, applying a probability factor based on each deal\u2019s current stage. This provides a single CAD figure that reflects the likely revenue from the pipeline, excluding any deals already won or lost.\n\n**Definitions used**\n- Weighted pipeline: The probability\u2011weighted value of open deals at a point in time, calculated as \u03a3 (expected fee\u202f\u00d7\u202fstage probability) over deals open at the period end. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Weighted pipeline",
       "score": 0.7150598932153686
@@ -5088,9 +5088,9 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Weighted pipeline",
-       "text": "CIB Business Definitions Glossary\nSection: Coverage and pipeline > Weighted pipeline\n\n**Definition:** The probability-weighted value of open deals at a point in time: each open deal's expected fee multiplied by the probability for the stage it has reached. Stage probabilities are Origination 10%, Pitch 25%, Mandate 60% and Execution 85%. Won and lost deals leave the pipeline.\n**Formula:** Weighted pipeline = \u03a3 (expected fee \u00d7 stage probability) over deals open at the period end.\n**Unit:** CAD.\n**Owner:** Coverage COO office.\n**Source:** `gold.fact_pipeline`; tool `get_kpi(metric='weighted_pipeline')`."
+       "text": "Business Definitions Glossary\nSection: Coverage and pipeline > Weighted pipeline\n\n**Definition:** The probability-weighted value of open deals at a point in time: each open deal's expected fee multiplied by the probability for the stage it has reached. Stage probabilities are Origination 10%, Pitch 25%, Mandate 60% and Execution 85%. Won and lost deals leave the pipeline.\n**Formula:** Weighted pipeline = \u03a3 (expected fee \u00d7 stage probability) over deals open at the period end.\n**Unit:** CAD.\n**Owner:** Coverage COO office.\n**Source:** `gold.fact_pipeline`; tool `get_kpi(metric='weighted_pipeline')`."
       }
      ]
     },
@@ -5102,7 +5102,7 @@
    "group": "definitions",
    "question": "What counts as a slipped deal, and how do we treat it?",
    "outcome": "answered",
-   "answer": "**Headline:** A slipped deal is a deal expected to close in a period but that remains open past its expected close date or closes after the period ends.  \n\n**Drivers**\n- Expected\u2011close date falls within the period **AND** the deal is still open after that date or closes after the period end.  \n- Fee is **not** counted as revenue in the original period; event fees are booked only at close.  \n- Deal stays in the weighted pipeline at its current stage and the shortfall is reported as a timing variance.  \n- It is classified as a lost deal only if the client cancels the mandate or awards it elsewhere.  \n\n**Executive paragraph**  \nA slipped deal occurs when a transaction slated for a given period fails to close on time, either staying open beyond its expected close date or closing after the quarter ends. Because revenue is recognized only at close, its fee is excluded from the period\u2019s revenue and the shortfall appears as a timing variance while the deal remains in the pipeline. Only a client\u2011initiated cancellation or award elsewhere converts the slipped deal into a lost deal.  \n\n**Definitions used**\n- Slipped deal: A deal that was expected to close in a period but did not; its fee is not counted as revenue in the original period, it stays in the weighted pipeline, and the shortfall is reported as a timing variance, becoming a lost deal only if the mandate is cancelled or awarded elsewhere. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** A slipped deal is a deal expected to close in a period but that remains open past its expected close date or closes after the period ends.  \n\n**Drivers**\n- Expected\u2011close date falls within the period **AND** the deal is still open after that date or closes after the period end.  \n- Fee is **not** counted as revenue in the original period; event fees are booked only at close.  \n- Deal stays in the weighted pipeline at its current stage and the shortfall is reported as a timing variance.  \n- It is classified as a lost deal only if the client cancels the mandate or awards it elsewhere.  \n\n**Executive paragraph**  \nA slipped deal occurs when a transaction slated for a given period fails to close on time, either staying open beyond its expected close date or closing after the quarter ends. Because revenue is recognized only at close, its fee is excluded from the period\u2019s revenue and the shortfall appears as a timing variance while the deal remains in the pipeline. Only a client\u2011initiated cancellation or award elsewhere converts the slipped deal into a lost deal.  \n\n**Definitions used**\n- Slipped deal: A deal that was expected to close in a period but did not; its fee is not counted as revenue in the original period, it stays in the weighted pipeline, and the shortfall is reported as a timing variance, becoming a lost deal only if the mandate is cancelled or awarded elsewhere. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "latency_ms": 6120,
    "scores": {
     "number_match": null,
@@ -5129,12 +5129,12 @@
    "work": {
     "question": "What counts as a slipped deal, and how do we treat it?",
     "outcome": "answered",
-    "answer": "**Headline:** A slipped deal is a deal expected to close in a period but that remains open past its expected close date or closes after the period ends.  \n\n**Drivers**\n- Expected\u2011close date falls within the period **AND** the deal is still open after that date or closes after the period end.  \n- Fee is **not** counted as revenue in the original period; event fees are booked only at close.  \n- Deal stays in the weighted pipeline at its current stage and the shortfall is reported as a timing variance.  \n- It is classified as a lost deal only if the client cancels the mandate or awards it elsewhere.  \n\n**Executive paragraph**  \nA slipped deal occurs when a transaction slated for a given period fails to close on time, either staying open beyond its expected close date or closing after the quarter ends. Because revenue is recognized only at close, its fee is excluded from the period\u2019s revenue and the shortfall appears as a timing variance while the deal remains in the pipeline. Only a client\u2011initiated cancellation or award elsewhere converts the slipped deal into a lost deal.  \n\n**Definitions used**\n- Slipped deal: A deal that was expected to close in a period but did not; its fee is not counted as revenue in the original period, it stays in the weighted pipeline, and the shortfall is reported as a timing variance, becoming a lost deal only if the mandate is cancelled or awarded elsewhere. (Source: CIB Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+    "answer": "**Headline:** A slipped deal is a deal expected to close in a period but that remains open past its expected close date or closes after the period ends.  \n\n**Drivers**\n- Expected\u2011close date falls within the period **AND** the deal is still open after that date or closes after the period end.  \n- Fee is **not** counted as revenue in the original period; event fees are booked only at close.  \n- Deal stays in the weighted pipeline at its current stage and the shortfall is reported as a timing variance.  \n- It is classified as a lost deal only if the client cancels the mandate or awards it elsewhere.  \n\n**Executive paragraph**  \nA slipped deal occurs when a transaction slated for a given period fails to close on time, either staying open beyond its expected close date or closing after the quarter ends. Because revenue is recognized only at close, its fee is excluded from the period\u2019s revenue and the shortfall appears as a timing variance while the deal remains in the pipeline. Only a client\u2011initiated cancellation or award elsewhere converts the slipped deal into a lost deal.  \n\n**Definitions used**\n- Slipped deal: A deal that was expected to close in a period but did not; its fee is not counted as revenue in the original period, it stays in the weighted pipeline, and the shortfall is reported as a timing variance, becoming a lost deal only if the mandate is cancelled or awarded elsewhere. (Source: Business Definitions Glossary)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
     "as_of": "2026-11-24",
     "tool_calls": [],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Slipped deal",
       "score": 0.7635309711657635
@@ -5193,9 +5193,9 @@
      "retrieved": [
       {
        "doc_id": "glossary",
-       "title": "CIB Business Definitions Glossary",
+       "title": "Business Definitions Glossary",
        "section": "Slipped deal",
-       "text": "CIB Business Definitions Glossary\nSection: Coverage and pipeline > Slipped deal\n\n**Definition:** A deal that was expected to close in a period but did not: it was still open after its expected close date, or it closed after the period ended. How we treat a slipped deal: its fee is not counted as revenue in the original period, because event fees are booked only at close; the deal stays in the weighted pipeline at its current stage; the revenue shortfall it causes is reported as a timing variance, not as a lost deal; and commentary names the deal, its fee and the new expected close date. A slipped deal becomes a lost deal only when the client cancels the mandate or awards it elsewhere.\n**Formula:** Slipped = expected close date in the period AND (still open after the expected close date OR actual close date after the period end).\n**Unit:** Count of deals and CAD of expected fees.\n**Owner:** Coverage, with CIB Business Management.\n**Source:** tool `pipeline_conversion(detail='slipped')`."
+       "text": "Business Definitions Glossary\nSection: Coverage and pipeline > Slipped deal\n\n**Definition:** A deal that was expected to close in a period but did not: it was still open after its expected close date, or it closed after the period ended. How we treat a slipped deal: its fee is not counted as revenue in the original period, because event fees are booked only at close; the deal stays in the weighted pipeline at its current stage; the revenue shortfall it causes is reported as a timing variance, not as a lost deal; and commentary names the deal, its fee and the new expected close date. A slipped deal becomes a lost deal only when the client cancels the mandate or awards it elsewhere.\n**Formula:** Slipped = expected close date in the period AND (still open after the expected close date OR actual close date after the period end).\n**Unit:** Count of deals and CAD of expected fees.\n**Owner:** Coverage, with Business Management.\n**Source:** tool `pipeline_conversion(detail='slipped')`."
       }
      ]
     },
@@ -5207,7 +5207,7 @@
    "group": "guardrail",
    "question": "What's TD's real Q3 revenue?",
    "outcome": "refused",
-   "answer": "I can only answer questions about Northlake Bank's CIB performance data, and Northlake is a fictional bank: every figure here is synthetic. I don't have, and won't estimate, real figures for any real bank, or information about real people. Try a question such as \"Why did Industrials revenue miss plan in Q3?\"\n\n_Synthetic data \u00b7 Northlake Bank (fictional)._",
+   "answer": "I can only answer questions about Northlake Bank's performance data, and Northlake is a fictional bank: every figure here is synthetic. I don't have, and won't estimate, real figures for any real bank, or information about real people. Try a question such as \"Why did Industrials revenue miss plan in Q3?\"\n\n_Synthetic data \u00b7 Northlake Bank (fictional)._",
    "latency_ms": 4,
    "scores": {
     "number_match": null,
@@ -5228,7 +5228,7 @@
    "work": {
     "question": "What's TD's real Q3 revenue?",
     "outcome": "refused",
-    "answer": "I can only answer questions about Northlake Bank's CIB performance data, and Northlake is a fictional bank: every figure here is synthetic. I don't have, and won't estimate, real figures for any real bank, or information about real people. Try a question such as \"Why did Industrials revenue miss plan in Q3?\"\n\n_Synthetic data \u00b7 Northlake Bank (fictional)._",
+    "answer": "I can only answer questions about Northlake Bank's performance data, and Northlake is a fictional bank: every figure here is synthetic. I don't have, and won't estimate, real figures for any real bank, or information about real people. Try a question such as \"Why did Industrials revenue miss plan in Q3?\"\n\n_Synthetic data \u00b7 Northlake Bank (fictional)._",
     "as_of": null,
     "tool_calls": [],
     "retrieved": [],

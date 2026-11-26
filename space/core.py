@@ -50,7 +50,7 @@ LIVE_TIMEOUT_S = _int_env("LIVE_TIMEOUT_S", 45)
 
 SYNTHETIC = "_Northlake Bank is fictional. Every client, deal and figure in this demo is synthetic._"
 MSG = {
-    "empty": "Type a question about Northlake's CIB performance, or pick one of the suggested questions.",
+    "empty": "Type a question about Northlake's performance, or pick one of the suggested questions.",
     "too_long": f"Please keep the question under {MAX_CHARS} characters.",
     "session": ("That's the {n}-question limit for one visit: the demo runs on a small free-tier Databricks "
                 "workspace. The code, the build guide and the evaluation scorecard are on GitHub."),

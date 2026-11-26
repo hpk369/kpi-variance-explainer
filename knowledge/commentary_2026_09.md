@@ -3,12 +3,12 @@ doc_id: commentary_2026_09
 doc_type: commentary
 title: Management Commentary: September 2026 and Q3 2026
 as_of: 2026-09-30
-owner: CIB Business Management
+owner: Business Management
 ---
 
 # Management Commentary: September 2026 and Q3 2026
 
-Northlake Bank (fictional), synthetic. Quarter-end performance commentary for the CIB Executive Committee, prepared by CIB Business Management. Figures as reported at quarter-end close; all amounts in CAD. Q3 means calendar Q3 (July to September).
+Northlake Bank (fictional), synthetic. Quarter-end performance commentary for the Executive Committee, prepared by Business Management. Figures as reported at quarter-end close; all amounts in CAD. Q3 means calendar Q3 (July to September).
 
 ## Headline
 Q3 revenue was $207.3M, $8.7M (4.0%) below plan. Industrials accounts for the whole miss: two M&A mandates that slipped out of August explain $7.5M, about 85% of the Industrials gap. The rest of the franchise finished the quarter broadly on plan. September alone was $60.7M, $0.9M below plan.
@@ -36,5 +36,5 @@ Q3 revenue was $207.3M, $8.7M (4.0%) below plan. Industrials accounts for the wh
 ## Actions
 1. Coverage East 1 to confirm November closing dates for the two Industrials mandates (owner: Head of Coverage East).
 2. Coverage and product partners to agree account plans for the 18 lending-only Mid-Market clients by October 31 (owner: Head of Mid-Market Coverage).
-3. CIB COO to approve the Coverage East 2 rebalancing (owner: CIB COO).
-4. CIB Finance to close the June Transaction Banking break before the October close (owner: Head of CIB Finance).
+3. COO to approve the Coverage East 2 rebalancing (owner: COO).
+4. Finance to close the June Transaction Banking break before the October close (owner: Head of Finance).

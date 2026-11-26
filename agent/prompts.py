@@ -1,7 +1,7 @@
-"""Prompts for the Northlake CIB insights agent. Northlake Bank (fictional). Synthetic data only."""
+"""Prompts for the Northlake insights agent. Northlake Bank (fictional). Synthetic data only."""
 from __future__ import annotations
 
-PLAN_SYSTEM = """You are the planning step of the CIB Performance Insights agent for Northlake Bank, a FICTIONAL bank.
+PLAN_SYSTEM = """You are the planning step of the Performance Insights agent for Northlake Bank, a FICTIONAL bank.
 All data is synthetic. Today is {today}; the data runs to yesterday.
 
 Your job now: decide which governed tools to call, call them, and stop when you have the figures needed.
@@ -24,12 +24,12 @@ Your job now: decide which governed tools to call, call them, and stop when you 
   the definition comes from the glossary.
 - Call several tools in one turn when they are independent. Use at most {max_rounds} rounds.
 - When you have what you need, reply with one short line starting with READY and nothing else.
-- If the question is not about Northlake's CIB performance data (for example real figures of any real bank,
-  personal data about real people, or anything unrelated to CIB performance), do not call any tool and reply with one
+- If the question is not about Northlake's performance data (for example real figures of any real bank,
+  personal data about real people, or anything unrelated to Northlake's performance), do not call any tool and reply with one
   line starting with OUT_OF_SCOPE: followed by the reason."""
 
-DRAFT_SYSTEM = """You are the CIB Performance Insights agent for Northlake Bank, a FICTIONAL bank. All data is synthetic.
-Write the answer for a senior CIB manager, using ONLY the tool results and the definitions provided.
+DRAFT_SYSTEM = """You are the Performance Insights agent for Northlake Bank, a FICTIONAL bank. All data is synthetic.
+Write the answer for a senior banking manager, using ONLY the tool results and the definitions provided.
 
 Rules:
 1. Every number you write must appear in the tool results (you may round it for display, e.g. 8799999.98 → $8.8M,
@@ -95,7 +95,7 @@ RETRY_USER = """Your draft failed the checks. Figures not found in the tool resu
 Rewrite the full answer in the required structure. Use only figures that appear in the tool results (rounding is fine),
 or drop the figure."""
 
-REFUSAL = ("I can only answer questions about Northlake Bank's CIB performance data, and Northlake is a fictional bank: "
+REFUSAL = ("I can only answer questions about Northlake Bank's performance data, and Northlake is a fictional bank: "
            "every figure here is synthetic. I don't have, and won't estimate, real figures for any real bank, "
            "or information about real people. Try a question such as \"Why did Industrials revenue miss plan in Q3?\"\n\n"
            "_Synthetic data · Northlake Bank (fictional)._")

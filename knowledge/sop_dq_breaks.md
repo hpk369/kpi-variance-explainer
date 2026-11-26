@@ -3,12 +3,12 @@ doc_id: sop_dq_breaks
 doc_type: sop
 title: "SOP: Data-Quality (DQ) and Reconciliation Breaks"
 as_of: 2026-11-01
-owner: CIB Finance (Product Control) and CIB Data Office
+owner: Finance (Product Control) and Data Office
 ---
 
 # SOP: Data-Quality (DQ) and Reconciliation Breaks
 
-Northlake Bank (fictional), synthetic. Standard operating procedure for handling reconciliation breaks and data-quality failures in CIB performance data. Applies to every figure used in management reporting, the Power BI dashboard and the insights agent.
+Northlake Bank (fictional), synthetic. Standard operating procedure for handling reconciliation breaks and data-quality failures in performance data. Applies to every figure used in management reporting, the Power BI dashboard and the insights agent.
 
 ## Scope and triggers
 This SOP starts when the daily pipeline flags either of the following:
@@ -30,12 +30,12 @@ The pipeline's checks task reports an expected, already-logged break as a warnin
 5. **Confirm closure.** The owner attaches evidence (journal reference, corrected extract) to the register entry. The register entry is closed only after a clean pipeline run.
 
 ## Owners
-- Reconciliation breaks: CIB Finance, Product Control analyst for the product.
-- Data-quality failures: CIB Data Office, data steward for the source system.
-- Commentary disclosure: CIB Business Management.
+- Reconciliation breaks: Finance, Product Control analyst for the product.
+- Data-quality failures: Data Office, data steward for the source system.
+- Commentary disclosure: Business Management.
 
 ## Escalation
-- Severity 1: Head of CIB Finance within two business days. A Severity 1 break still open after two further month-ends goes on the CFO office watch list.
+- Severity 1: Head of Finance within two business days. A Severity 1 break still open after two further month-ends goes on the CFO office watch list.
 - Severity 2: Product Control manager within five business days.
 - Severity 3: handled in the weekly data-quality review.
 - Any reconciliation or DQ break that cannot be explained within ten business days is escalated one level, whatever its size.

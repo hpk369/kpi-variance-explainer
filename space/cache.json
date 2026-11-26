@@ -5,7 +5,7 @@
  "questions": [
   {
    "question": "Why did Industrials revenue miss plan in Q3?",
-   "answer": "**Headline:** Industrials Q3 revenue missed plan by **$8.8\u202fM**, driven almost entirely by an M&A Advisory shortfall.\n\n**Drivers**\n- M&A Advisory product: **\u2011$7.5\u202fM** variance, **85\u202f%** of the total gap.  \n- Lending product: **\u2011$1.3\u202fM** variance, **15\u202f%** of the total gap.  \n- Meadowlark Fabrication client: **\u2011$4.6\u202fM** variance, **52\u202f%** of the gap.  \n- Thornbury Components client: **\u2011$3.0\u202fM** variance, **34\u202f%** of the gap.  \n\n**Executive paragraph**  \nThe Industrials segment fell **$8.8\u202fM** short of its Q3 budget, a miss of **\u201119\u202f%**. The bulk of the shortfall stems from M&A Advisory revenue, which recorded zero bookings versus a $7.5\u202fM plan, accounting for **85\u202f%** of the variance. Two slipped M&A deals\u2014Meadowlark Fabrication ($4.5\u202fM) and Thornbury Components ($3.0\u202fM)\u2014closed after the quarter, turning expected fees into timing variance. Lending contributed the remaining gap.\n\n**Definitions used**\n- Revenue vs Plan: How far booked revenue is above or below the approved plan; a negative variance is a miss. (Source: CIB Business Definitions Glossary \u203a Revenue vs Plan)  \n- Variance driver: A product, client, etc., ranked by how much of the total revenue gap it explains. (Source: CIB Business Definitions Glossary \u203a Variance driver)  \n- Slipped deal: A deal expected to close in a period but closed later, causing a timing variance. (Source: CIB Business Definitions Glossary \u203a Slipped deal)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Industrials Q3 revenue missed plan by **$8.8\u202fM**, driven almost entirely by an M&A Advisory shortfall.\n\n**Drivers**\n- M&A Advisory product: **\u2011$7.5\u202fM** variance, **85\u202f%** of the total gap.  \n- Lending product: **\u2011$1.3\u202fM** variance, **15\u202f%** of the total gap.  \n- Meadowlark Fabrication client: **\u2011$4.6\u202fM** variance, **52\u202f%** of the gap.  \n- Thornbury Components client: **\u2011$3.0\u202fM** variance, **34\u202f%** of the gap.  \n\n**Executive paragraph**  \nThe Industrials segment fell **$8.8\u202fM** short of its Q3 budget, a miss of **\u201119\u202f%**. The bulk of the shortfall stems from M&A Advisory revenue, which recorded zero bookings versus a $7.5\u202fM plan, accounting for **85\u202f%** of the variance. Two slipped M&A deals\u2014Meadowlark Fabrication ($4.5\u202fM) and Thornbury Components ($3.0\u202fM)\u2014closed after the quarter, turning expected fees into timing variance. Lending contributed the remaining gap.\n\n**Definitions used**\n- Revenue vs Plan: How far booked revenue is above or below the approved plan; a negative variance is a miss. (Source: Business Definitions Glossary \u203a Revenue vs Plan)  \n- Variance driver: A product, client, etc., ranked by how much of the total revenue gap it explains. (Source: Business Definitions Glossary \u203a Variance driver)  \n- Slipped deal: A deal expected to close in a period but closed later, causing a timing variance. (Source: Business Definitions Glossary \u203a Slipped deal)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "work": {
     "question": "Why did Industrials revenue miss plan in Q3?",
     "outcome": "answered",
@@ -325,19 +325,19 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Revenue vs Plan",
       "score": 0.6724044507433995
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Variance driver",
       "score": 0.7041818906304371
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Slipped deal",
       "score": 0.7240405565128163
@@ -396,7 +396,7 @@
   },
   {
    "question": "Which clients are below the RAROC hurdle but have cross-sell whitespace?",
-   "answer": "**Headline:** 20 clients are below the 15% RAROC hurdle and each has cross\u2011sell whitespace.\n\n**Drivers**\n- Lakemont Data \u2013 RAROC 12%, revenue $1.9M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory.  \n- Alder Data \u2013 RAROC 9%, revenue $0.95M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n- Hollins Energy \u2013 RAROC 9%, revenue $0.65M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n- Queensway Capital \u2013 RAROC 5%, revenue $1.2M, missing Debt Capital Markets, Equity Capital Markets, Lending, M&A Advisory, Rates & FX Hedging.  \n- Northwind Midstream \u2013 RAROC 6%, revenue $0.86M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.\n\n**Executive paragraph**  \nAll 20 clients in the latest view fall short of the 15% hurdle and have at least one product gap. The cohort is split 19 Mid\u2011Market and 1 Financial Institutions client. Eighteen hold only Lending, one holds Transaction Banking, and one holds Lending, Rates & FX Hedging, and Transaction Banking. The lowest\u2011RAROC client is Queensway Capital (5%) which is missing five fee\u2011product opportunities.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12 months as a percentage. (Source: CIB Business Definitions Glossary \u203a RAROC)  \n- Hurdle rate: The minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15%. (Source: CIB Business Definitions Glossary \u203a Hurdle rate)  \n- Cross\u2011sell whitespace: Products a below\u2011hurdle client does not yet hold; missing products are those not generating revenue in the trailing 12 months. (Source: CIB Business Definitions Glossary \u203a Cross\u2011sell whitespace)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** 20 clients are below the 15% RAROC hurdle and each has cross\u2011sell whitespace.\n\n**Drivers**\n- Lakemont Data \u2013 RAROC 12%, revenue $1.9M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory.  \n- Alder Data \u2013 RAROC 9%, revenue $0.95M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n- Hollins Energy \u2013 RAROC 9%, revenue $0.65M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.  \n- Queensway Capital \u2013 RAROC 5%, revenue $1.2M, missing Debt Capital Markets, Equity Capital Markets, Lending, M&A Advisory, Rates & FX Hedging.  \n- Northwind Midstream \u2013 RAROC 6%, revenue $0.86M, missing Debt Capital Markets, Equity Capital Markets, M&A Advisory, Rates & FX Hedging, Transaction Banking.\n\n**Executive paragraph**  \nAll 20 clients in the latest view fall short of the 15% hurdle and have at least one product gap. The cohort is split 19 Mid\u2011Market and 1 Financial Institutions client. Eighteen hold only Lending, one holds Transaction Banking, and one holds Lending, Rates & FX Hedging, and Transaction Banking. The lowest\u2011RAROC client is Queensway Capital (5%) which is missing five fee\u2011product opportunities.\n\n**Definitions used**\n- RAROC: Risk\u2011adjusted return on capital, measured over the trailing 12 months as a percentage. (Source: Business Definitions Glossary \u203a RAROC)  \n- Hurdle rate: The minimum RAROC required (15%); gap to hurdle = RAROC\u202f\u2212\u202f15%. (Source: Business Definitions Glossary \u203a Hurdle rate)  \n- Cross\u2011sell whitespace: Products a below\u2011hurdle client does not yet hold; missing products are those not generating revenue in the trailing 12 months. (Source: Business Definitions Glossary \u203a Cross\u2011sell whitespace)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "work": {
     "question": "Which clients are below the RAROC hurdle but have cross-sell whitespace?",
     "outcome": "answered",
@@ -518,19 +518,19 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "RAROC",
       "score": 0.5938693593768565
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Hurdle rate",
       "score": 0.6956815515086308
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Cross-sell whitespace",
       "score": 0.6982793577392569
@@ -589,7 +589,7 @@
   },
   {
    "question": "Which coverage teams are over capacity, and how is their win rate trending?",
-   "answer": "**Headline:** Coverage\u202fEast\u202f2 is the only team over capacity; its win rate is falling every quarter.\n\n**Drivers**\n- Over\u2011capacity flag: true (clients per banker\u202f14\u202fvs target\u202f10)  \n- Win\u2011rate trend: \u201cfalling every quarter\u201d  \n- Win\u2011rate Q4\u202f2025: 44%  \n- Win\u2011rate Q3\u202f2026: 25% (0.25)\n\n**Executive paragraph**  \nCoverage\u202fEast\u202f2 exceeds its client\u2011per\u2011banker target, indicating bankers are stretched thin. The team\u2019s win rate has declined each quarter from 44% to 25%, consistent with the expected impact of over\u2011capacity on deal success.\n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team\u2019s target; over capacity when clients per banker\u202f>\u202ftarget (Source: CIB Business Definitions Glossary \u203a Coverage capacity)  \n- Win rate: Share of decided deals that Northlake won; win rate\u202f=\u202fdeals won\u202f\u00f7\u202f(deals won\u202f+\u202fdeals lost) (Source: CIB Business Definitions Glossary \u203a Win rate)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Coverage\u202fEast\u202f2 is the only team over capacity; its win rate is falling every quarter.\n\n**Drivers**\n- Over\u2011capacity flag: true (clients per banker\u202f14\u202fvs target\u202f10)  \n- Win\u2011rate trend: \u201cfalling every quarter\u201d  \n- Win\u2011rate Q4\u202f2025: 44%  \n- Win\u2011rate Q3\u202f2026: 25% (0.25)\n\n**Executive paragraph**  \nCoverage\u202fEast\u202f2 exceeds its client\u2011per\u2011banker target, indicating bankers are stretched thin. The team\u2019s win rate has declined each quarter from 44% to 25%, consistent with the expected impact of over\u2011capacity on deal success.\n\n**Definitions used**\n- Coverage capacity: How many client relationships each coverage banker carries compared with the team\u2019s target; over capacity when clients per banker\u202f>\u202ftarget (Source: Business Definitions Glossary \u203a Coverage capacity)  \n- Win rate: Share of decided deals that Northlake won; win rate\u202f=\u202fdeals won\u202f\u00f7\u202f(deals won\u202f+\u202fdeals lost) (Source: Business Definitions Glossary \u203a Win rate)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "work": {
     "question": "Which coverage teams are over capacity, and how is their win rate trending?",
     "outcome": "answered",
@@ -696,13 +696,13 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Coverage capacity",
       "score": 0.6758145038985856
      },
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Win rate",
       "score": 0.6081600357307296
@@ -761,7 +761,7 @@
   },
   {
    "question": "Are there any reconciliation breaks?",
-   "answer": "**Headline:** Yes \u2013 a $1.2\u202fM reconciliation break was identified for Transaction Banking in June\u202f2026.  \n\n**Drivers**\n- Product\u202fTransaction Banking (P06) \u2013 GL $12.4\u202fM vs booked $11.2\u202fM, delta $1.2\u202fM.  \n- Month\u202f2026\u201106 \u2013 delta exceeds the $1\u202fK tolerance.  \n- Period\u202f2024\u201110\u201101 to 2026\u201111\u201124 \u2013 145 months checked.  \n- Severity\u202f1 \u2013 break \u2265\u202f$1\u202fM (per SOP).  \n\n**Executive paragraph**  \nThe reconciliation control flagged a break for Transaction Banking in June\u202f2026, with the GL control total $12.4\u202fM exceeding booked revenue by $1.2\u202fM. The size places the issue in Severity\u202f1, requiring escalation to the Head of CIB Finance within two business days and tracking on the CFO office watch list if not resolved by the second month\u2011end.  \n\n**Definitions used**\n- Reconciliation break: A product and month where booked revenue differs from the GL control total by more than $1,000; positive delta indicates a missing booking. (Source: CIB Business Definitions Glossary)  \n- Severity\u202f1: A reconciliation break of $1\u202fM or more, or any break open at a second month\u2011end. (Source: SOP: Data-Quality (DQ) and Reconciliation Breaks)  \n- Escalation (Severity\u202f1): Head of CIB Finance notified within two business days; unresolved after two further month\u2011ends escalates to the CFO office watch list. (Source: SOP: Data-Quality (DQ) and Reconciliation Breaks)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
+   "answer": "**Headline:** Yes \u2013 a $1.2\u202fM reconciliation break was identified for Transaction Banking in June\u202f2026.  \n\n**Drivers**\n- Product\u202fTransaction Banking (P06) \u2013 GL $12.4\u202fM vs booked $11.2\u202fM, delta $1.2\u202fM.  \n- Month\u202f2026\u201106 \u2013 delta exceeds the $1\u202fK tolerance.  \n- Period\u202f2024\u201110\u201101 to 2026\u201111\u201124 \u2013 145 months checked.  \n- Severity\u202f1 \u2013 break \u2265\u202f$1\u202fM (per SOP).  \n\n**Executive paragraph**  \nThe reconciliation control flagged a break for Transaction Banking in June\u202f2026, with the GL control total $12.4\u202fM exceeding booked revenue by $1.2\u202fM. The size places the issue in Severity\u202f1, requiring escalation to the Head of Finance within two business days and tracking on the CFO office watch list if not resolved by the second month\u2011end.  \n\n**Definitions used**\n- Reconciliation break: A product and month where booked revenue differs from the GL control total by more than $1,000; positive delta indicates a missing booking. (Source: Business Definitions Glossary)  \n- Severity\u202f1: A reconciliation break of $1\u202fM or more, or any break open at a second month\u2011end. (Source: SOP: Data-Quality (DQ) and Reconciliation Breaks)  \n- Escalation (Severity\u202f1): Head of Finance notified within two business days; unresolved after two further month\u2011ends escalates to the CFO office watch list. (Source: SOP: Data-Quality (DQ) and Reconciliation Breaks)\n\n_Synthetic data \u00b7 Northlake Bank (fictional). Data as of 2026-11-24._",
    "work": {
     "question": "Are there any reconciliation breaks?",
     "outcome": "answered",
@@ -797,7 +797,7 @@
     ],
     "retrieved": [
      {
-      "doc": "CIB Business Definitions Glossary",
+      "doc": "Business Definitions Glossary",
       "doc_id": "glossary",
       "section": "Reconciliation break",
       "score": 0.5779861801865996

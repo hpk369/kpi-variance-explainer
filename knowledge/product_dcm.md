@@ -3,7 +3,7 @@ doc_id: product_dcm
 doc_type: product
 title: Product One-Pager: Debt Capital Markets
 as_of: 2026-11-01
-owner: CIB Debt Capital Markets
+owner: Debt Capital Markets
 ---
 
 # Product One-Pager: Debt Capital Markets

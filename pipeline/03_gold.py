@@ -124,7 +124,7 @@ TABLES = {
     "dim_banker": ("One row per coverage banker.", {
         "banker_id": "Banker key, e.g. B01", "banker_name": "Banker name (fictional)", "team": "Coverage team",
         "role": "Banker title", "capacity_target": "Target number of clients per banker for the team"}),
-    "dim_product": ("The six CIB products.", {
+    "dim_product": ("The six products.", {
         "product_id": "Product key P01–P06", "product_name": "Product name",
         "revenue_type": "Recurring (accrues monthly) or Event (fee at deal close)",
         "capital_intensity": "High, Medium or Low use of capital", "description": "What the product is"}),

@@ -3,7 +3,7 @@ doc_id: product_ma_advisory
 doc_type: product
 title: Product One-Pager: M&A Advisory
 as_of: 2026-11-01
-owner: CIB M&A Advisory
+owner: M&A Advisory
 ---
 
 # Product One-Pager: M&A Advisory
@@ -16,7 +16,7 @@ Sell-side and buy-side advice on mergers, acquisitions, divestitures and sponsor
 ## Revenue drivers
 - Success fees paid at closing, typically a percentage of transaction value with a minimum fee. Almost all M&A Advisory revenue is a success fee.
 - Retainers and announcement fees are small and are netted into the success fee.
-- Revenue is recognised only on the day the transaction closes. M&A Advisory is therefore the lumpiest line in CIB: one or two large mandates moving by a few weeks can swing a month or a quarter by several million dollars.
+- Revenue is recognised only on the day the transaction closes. M&A Advisory is therefore the lumpiest line in the business: one or two large mandates moving by a few weeks can swing a month or a quarter by several million dollars.
 - Close timing depends on regulatory approvals, financing, shareholder votes and buyer due diligence, most of which the bank does not control.
 
 ## Capital intensity

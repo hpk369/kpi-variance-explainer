@@ -1,4 +1,4 @@
-# Northlake Bank (fictional) · CIB Performance Insights Agent
+# Northlake Bank (fictional) · Insights Agent
 # Single source of truth for numbers used by the generator, SQL, DAX and the agent.
 # Change a value here, then re-run the generator (python generator/generate.py).
 version: "2026.11-v1"

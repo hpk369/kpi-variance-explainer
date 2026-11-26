@@ -3,15 +3,15 @@ doc_id: commentary_2026_07
 doc_type: commentary
 title: Management Commentary: July 2026
 as_of: 2026-07-31
-owner: CIB Business Management
+owner: Business Management
 ---
 
 # Management Commentary: July 2026
 
-Northlake Bank (fictional), synthetic. Monthly performance commentary for the CIB Executive Committee, prepared by CIB Business Management. Figures as reported at month-end close; all amounts in CAD.
+Northlake Bank (fictional), synthetic. Monthly performance commentary for the Executive Committee, prepared by Business Management. Figures as reported at month-end close; all amounts in CAD.
 
 ## Headline
-CIB revenue was $66.7M in July, $1.8M (2.7%) below plan. The miss is timing in M&A Advisory, partly offset by an unplanned financial-institutions bond deal. Recurring revenue was in line.
+Revenue was $66.7M in July, $1.8M (2.7%) below plan. The miss is timing in M&A Advisory, partly offset by an unplanned financial-institutions bond deal. Recurring revenue was in line.
 
 ## Revenue vs plan
 - **M&A Advisory, −$2.7M vs plan.** A sponsor portfolio-company exit planned for July did not close in the month. The buyer's financing is committed and the deal is expected to close in August, so we are treating this as timing, not a loss.
@@ -29,5 +29,5 @@ CIB revenue was $66.7M in July, $1.8M (2.7%) below plan. The miss is timing in M
 
 ## Actions
 1. Coverage East 1 to confirm closing timetables for the two Industrials mandates by August 15 (owner: Head of Coverage East).
-2. Product Control to identify the missing Transaction Banking booking and post the correction (owner: CIB Finance).
-3. Business Management to draft the Coverage East 2 capacity proposal (owner: CIB COO).
+2. Product Control to identify the missing Transaction Banking booking and post the correction (owner: Finance).
+3. Business Management to draft the Coverage East 2 capacity proposal (owner: COO).
