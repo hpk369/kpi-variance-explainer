@@ -31,7 +31,7 @@ def _last_user_text(request: ResponsesAgentRequest) -> str:
     raise ValueError("The request has no user message.")
 
 
-class CibInsightsAgent(ResponsesAgent):
+class KpiVarianceAgent(ResponsesAgent):
     def _run(self, request: ResponsesAgentRequest) -> dict:
         from agent.graph import run
 
@@ -56,5 +56,5 @@ class CibInsightsAgent(ResponsesAgent):
         yield ResponsesAgentStreamEvent(type="response.output_item.done", item=item, custom_outputs=self._custom(work))
 
 
-AGENT = CibInsightsAgent()
+AGENT = KpiVarianceAgent()
 mlflow.models.set_model(AGENT)

@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # Upload the Space app to Hugging Face.
-# Usage: bash scripts/deploy_space.sh <hf-username>/northlake-cib-insights
+# Usage: bash scripts/deploy_space.sh <hf-username>/<space-name>
 # Builds space/build/ (the app, the agent and what it imports, config, documents, recorded answers) and uploads it
 # with the hf CLI (run `hf auth login` once first). Secrets (.env) are never copied: set them in the Space settings.
 set -euo pipefail
-REPO="${1:?usage: bash scripts/deploy_space.sh <hf-username>/northlake-cib-insights}"
+REPO="${1:?usage: bash scripts/deploy_space.sh <hf-username>/<space-name>}"
 cd "$(dirname "$0")/.."
 
 if [ ! -f space/cache.json ]; then

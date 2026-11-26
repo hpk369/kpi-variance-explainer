@@ -58,7 +58,7 @@ try:   # results go next to the code in the workspace; /tmp if the folder is rea
     (Path(REPO) / "eval" / "results").mkdir(exist_ok=True)
     (Path(REPO) / "eval" / "results" / ".write_test").write_text("ok")
 except OSError:
-    evaluation.RESULTS = Path("/tmp/cib_eval_results")
+    evaluation.RESULTS = Path("/tmp/kpi_eval_results")
 
 ids = [x.strip() for x in dbutils.widgets.get("ids").split(",") if x.strip()] or None
 limit = int(dbutils.widgets.get("limit")) if dbutils.widgets.get("limit") else None

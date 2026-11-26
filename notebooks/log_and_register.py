@@ -70,7 +70,7 @@ input_example = {"input": [{"role": "user", "content": "Why did Industrials reve
 import glob  # noqa: E402
 import shutil  # noqa: E402
 
-CODE = "/tmp/cib_agent_code"
+CODE = "/tmp/kpi_agent_code"
 shutil.rmtree(CODE, ignore_errors=True)
 for pattern in ("agent/*.py", "common/*.py", "config/*.yaml", "rag/__init__.py", "rag/chunking.py",
                 "rag/retrieval_tests.py", "knowledge/*.md"):
